@@ -28,9 +28,9 @@ class IncongruentTriggers(object):
 TEXT_SIZE = 40
 VISUAL_OFFSET = 50
 FIGURES_SCALE = 0.4
-RESULTS = [['EXP', 'TRIAL_TYPE', 'TEXT', 'COLOR', 'WAIT', 'RESPTIME', 'RT', 'TRUE_KEY', 'ANSWER','CORR']]
-KEYS = {'congruent':'z', 'incongruent':'/'}
-TRIGGER_LIST = []
+RESULTS = [['EXP', 'TRIAL_TYPE', 'TEXT', 'COLOR', 'WAIT', 'RESPTIME', 'RT', 'TRUE_KEY', 'ANSWER', 'CORR']]
+KEYS = {'congruent': 'z', 'incongruent': 'm'}
+# TRIGGER_LIST = []
 
 
 @atexit.register
@@ -39,9 +39,9 @@ def save_beh_results():
         beh_writer = csv.writer(beh_file)
         beh_writer.writerows(RESULTS)
     logging.flush()
-    with open(join('results', PART_ID + '_triggermap.txt'), 'w') as trigger_file:
-        trigger_writer = csv.writer(trigger_file)
-        trigger_writer.writerows(TRIGGER_LIST)
+    # with open(join('results', PART_ID + '_triggermap.txt'), 'w') as trigger_file:
+    #     trigger_writer = csv.writer(trigger_file)
+    #     trigger_writer.writerows(TRIGGER_LIST)
 
 
 def read_text_from_file(file_name, insert=''):
@@ -101,12 +101,15 @@ def show_info_2(win, info, show_time):
 
 def feedb(ans, true_key):
     if data['Feedb']:
-        if ans == true_key:
+        if not ans:
+            feedb_msg = no_feedb
+        elif ans == true_key:
             feedb_msg = pos_feedb
         elif ans != true_key:
             feedb_msg = neg_feedb
         else:
-            feedb_msg = no_feedb
+            raise Exception("Wrong feedb")
+
         show_info_2(win=win, info=feedb_msg, show_time=data['Feedb_time'])
 
 
@@ -124,20 +127,21 @@ def abort_with_error(err):
     logging.critical(err)
     raise Exception(err)
 
+
 # exp info
 data = yaml.load(open('config.yaml', 'r'))
 
 # prepare nirs
 if data['NIRS']:
     import pyxid
+
     devices = pyxid.get_xid_devices()
 
-    #check NIRS
+    # check NIRS
     if not devices:
         abort_with_error('NIRS not detected!')
     else:
         NIRS = devices[0]
-
 
 # part info
 info = {'Part_id': '', 'Part_age': '20', 'Part_sex': ['MALE', "FEMALE"],
@@ -148,7 +152,6 @@ if not dictDlg.OK:
 PART_ID = str(info['Part_id'] + info['Part_sex'] + info['Part_age'])
 
 logging.LogFile('results/' + PART_ID + '.log', level=logging.INFO)
-
 
 # prepare screen
 SCREEN_RES = get_screen_res()
@@ -161,7 +164,7 @@ pos_feedb = visual.TextStim(win, text=u'Poprawna odpowied\u017A', color='black',
 neg_feedb = visual.TextStim(win, text=u'Odpowied\u017A niepoprawna', color='black', height=TEXT_SIZE)
 no_feedb = visual.TextStim(win, text=u'Nie udzieli\u0142e\u015B odpowiedzi', color='black', height=TEXT_SIZE)
 
-key_labes = visual.TextStim(win=win, text='{}          {}'.format(data['Congruent_answer'], data['Incongruent_answer']),
+key_labes = visual.TextStim(win=win, text='{}    {}'.format(data['Congruent_answer'], data['Incongruent_answer']),
                             color='black', height=TEXT_SIZE, pos=(0, -4.5 * VISUAL_OFFSET))
 
 # prepare trials
@@ -195,7 +198,7 @@ for trial in training_trials:
         if key:
             reaction_time = resp_clock.getTime()
             if data['NIRS']:
-                if key == true_key:
+                if key[0] == true_key:
                     NIRS.activate_line(triggers.ParticipantReactGood)
                 else:
                     NIRS.activate_line(triggers.ParticipantReactBad)
@@ -207,14 +210,18 @@ for trial in training_trials:
     key_labes.setAutoDraw(False)
     win.flip()
 
+    if key:
+        ans = key[0]
+    else:
+        ans = '-'
     RESULTS.append(
         ['training', trial['trial_type'], trial['text'], trial['color'], data['Wait_time'], data['Resp_time'],
-         reaction_time, true_key, key, key == true_key])
+         reaction_time, true_key, ans, ans == true_key])
     check_exit()
 
     # show feedb
     if data['Feedb']:
-        feedb(key, true_key)
+        feedb(key, [true_key])
         check_exit()
 
     # wait
@@ -258,14 +265,20 @@ for idx, block in enumerate(blocks):
         key_labes.setAutoDraw(False)
         win.flip()
 
+        if key:
+            ans = key[0]
+        else:
+            ans = '-'
         RESULTS.append(
             ['experiment', trial['trial_type'], trial['text'], trial['color'], data['Wait_time'], data['Resp_time'],
-             reaction_time, true_key, key, key == true_key])
+             reaction_time, true_key, ans, ans == true_key])
         check_exit()
 
         # wait
         time.sleep(data['Wait_time'])
         check_exit()
-    show_info(win, join('.', 'messages', 'break{}.txt'.format(idx)))
+
+    if idx+1 < len(blocks):
+        show_info(win, join('.', 'messages', 'break{}.txt'.format(idx+1)))
 
 show_info(win, join('.', 'messages', 'end.txt'))

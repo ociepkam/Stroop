@@ -1,8 +1,8 @@
 NIRS: False
 Observer: Kasia
 Data: .06.2017
-Training_trials_congruent: 2
-Training_trials_incongruent: 2
+Training_trials_congruent: 3
+Training_trials_incongruent: 3
 Number_of_blocks: 3
 Experiment_trials_congruent: 4
 Experiment_trials_incongruent: 4
