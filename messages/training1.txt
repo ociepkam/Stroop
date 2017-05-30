@@ -1,0 +1,15 @@
+Twoim zadaniem bedzie rozpoznawanie koloru wyswietlanych napisow (HHHHH).
+Napis HHHHH moze byc w kolorze zielonym, niebieskim, czerwonym albo brazowym.
+
+Naciskaj:
+klawisz Z gdy wyswietlono napis w kolorze ZIELONYM
+klawisz X gdy wyswietlono napis w kolorze NIEBIESKIM
+klawisz N gdy wyswietlono napis w kolorze CZERWONYM
+klawisz M gdy wyswietlono napis w kolorze BRAZOWYM
+
+Jesli rozumiesz polecenie, przechodzimy do wykonywania zadania. 
+Poloz palce lewej reki na klawiszach Z i X, a prawej - na N i M.
+Staraj się naciskac wlasciwy klawisz. Jesli popelnisz blad, uslyszysz dzwiek.
+Podpowiedz u dolu ekranu bedzie przypominac Ci klawisze.
+
+Poczekaj na polecenie osoby badajacej. 

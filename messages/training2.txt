@@ -1,4 +1,7 @@
-Teraz nastapi wlasciwa czesc testu, z krotka przerwa na odpoczynek w srodku.
+Teraz zaczyna sie wlasciwy test, ktory jest znacznie trudniejszy niz poprzednie zadanie.
+
+Zmiana w stosunku do poprzedniego zadania bedzie taka, ze zamiast napisów HHHHH
+wyswietlac sie beda napisy oznaczajace kolory (np. ZIELONY, CZERWONY itp.)
 
 Pamietaj: rozpoznawaj wylacznie KOLOR slow, a zupelnie ignoruj tresc napisu.
 
@@ -13,10 +16,8 @@ Czesto kolor napisu i sam napis beda niezgodne i czytanie napisu moze
 prowadzic do blednej reakcji. Rozpoznawaj wylacznie KOLORY!
 Np. jesli slowo "NIEBIESKI" bedzie wyswietlone w kolorze czerwonym,
 to musisz nacisnac klawisz N (a nie - X!). Po prostu ignoruj tresc napisow.
-W tej czesci testu nie bedzie juz dzwiekow informujacych o pomylce.
+Staraj się naciskac wlasciwy klawisz. Jesli popelnisz blad, uslyszysz dzwiek.
 
-Ze wzgledu na rejestracje pracy Twojego mozgu kolorowe slowa beda teraz
-oddzielone 10-cio sekundowa przerwa. Staraj sie reagowac szybko i poprawnie!
-Skup sie, zalezy nam na jak najlepszym wykonaniu zadania.
+Staraj sie reagowac szybko i poprawnie!
 
-Poczekaj na komende osoby badajacej.
+Teraz bedzie mozna potrenowac wykonanie testu. Poczekaj na komende osoby badajacej.

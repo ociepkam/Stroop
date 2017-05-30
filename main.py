@@ -176,61 +176,58 @@ key_labes = visual.TextStim(win=win, text='{0}    {1}    {2}    {3}'.format(*col
 resp_clock = core.Clock()
 
 # ----------------------- Start Stroop ----------------------- #
-show_info(win, join('.', 'messages', 'instruction.txt'))
 
-for trial in training_trials:
-    # prepare trial
-    true_key, reaction_time, triggers = prepare_trial_info(trial)
 
-    # show fix
-    show_info_2(win=win, info=fixation, show_time=data['Fix_time'])
-    check_exit()
+for idx, block in enumerate(training_trials):
+    show_info(win, join('.', 'messages', 'training{}.txt'.format(idx+1)))
+    for trial in block:
+        # prepare trial
+        true_key, reaction_time, triggers = prepare_trial_info(trial)
 
-    # show problem
-    event.clearEvents()
-    win.callOnFlip(resp_clock.reset)
-    trial['stim'].setAutoDraw(True)
-    key_labes.setAutoDraw(True)
-    win.flip()
-    if data['NIRS']:
-        NIRS.activate_line(triggers.ProblemAppear)
-
-    while resp_clock.getTime() < data['Resp_time']:
-        key = event.getKeys(keyList=KEYS.values())
-        if key:
-            reaction_time = resp_clock.getTime()
-            if data['NIRS']:
-                if key[0] == true_key:
-                    NIRS.activate_line(triggers.ParticipantReactGood)
-                else:
-                    NIRS.activate_line(triggers.ParticipantReactBad)
-            break
+        # show fix
+        show_info_2(win=win, info=fixation, show_time=data['Fix_time'])
         check_exit()
+
+        # show problem
+        event.clearEvents()
+        win.callOnFlip(resp_clock.reset)
+        trial['stim'].setAutoDraw(True)
+        key_labes.setAutoDraw(True)
         win.flip()
 
-    trial['stim'].setAutoDraw(False)
-    key_labes.setAutoDraw(False)
-    win.flip()
+        while resp_clock.getTime() < data['Training_Resp_time']:
+            key = event.getKeys(keyList=KEYS.values())
+            if key:
+                reaction_time = resp_clock.getTime()
+                break
+            check_exit()
+            win.flip()
 
-    if key:
-        ans = key[0]
-    else:
-        ans = '-'
-    RESULTS.append(
-        ['training', trial['trial_type'], trial['text'], trial['color'], data['Wait_time'], data['Resp_time'],
-         reaction_time, true_key, ans, ans == true_key])
-    check_exit()
+        trial['stim'].setAutoDraw(False)
+        key_labes.setAutoDraw(False)
+        win.flip()
 
-    # show feedb
-    if data['Feedb']:
-        feedb(key, [true_key])
+        if key:
+            ans = key[0]
+        else:
+            ans = '-'
+        RESULTS.append(
+            ['training', trial['trial_type'], trial['text'], trial['color'], data['Training_Wait_time'],
+             data['Training_Resp_time'], reaction_time, true_key, ans, ans == true_key])
         check_exit()
 
-    # wait
-    time.sleep(data['Wait_time'])
-    check_exit()
+        # show feedb
+        if data['Feedb']:
+            feedb(key, [true_key])
+            check_exit()
 
-show_info(win, join('.', 'messages', 'after_training.txt'))
+        # wait
+        time.sleep(data['Training_Wait_time'])
+        check_exit()
+
+# ----------- Start experiment ------------- #
+
+show_info(win, join('.', 'messages', 'instruction.txt'))
 
 for idx, block in enumerate(blocks):
     for trial in block:
@@ -250,7 +247,7 @@ for idx, block in enumerate(blocks):
         if data['NIRS']:
             NIRS.activate_line(triggers.ProblemAppear)
 
-        while resp_clock.getTime() < data['Resp_time']:
+        while resp_clock.getTime() < data['Experiment_Resp_time']:
             key = event.getKeys(keyList=KEYS.values())
             if key:
                 reaction_time = resp_clock.getTime()
@@ -272,12 +269,12 @@ for idx, block in enumerate(blocks):
         else:
             ans = '-'
         RESULTS.append(
-            ['experiment', trial['trial_type'], trial['text'], trial['color'], data['Wait_time'], data['Resp_time'],
-             reaction_time, true_key, ans, ans == true_key])
+            ['experiment', trial['trial_type'], trial['text'], trial['color'], data['Experiment_Wait_time'],
+             data['Experiment_Resp_time'], reaction_time, true_key, ans, ans == true_key])
         check_exit()
 
         # wait
-        time.sleep(data['Wait_time'])
+        time.sleep(data['Experiment_Wait_time'])
         check_exit()
 
     if idx+1 < len(blocks):
