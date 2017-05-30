@@ -99,6 +99,13 @@ def show_info_2(win, info, show_time):
     win.flip()
 
 
+def prepare_key_matching_text(colors_key):
+    text = ""
+    for color, key in zip(colors_key, POSSIBLE_KEYS):
+        text += "klawisz {} gdy wyswietlono napis w kolorze {}\n".format(key.upper(), color)
+    return text
+
+
 def feedb(ans, true_key):
     if data['Feedb']:
         if not ans:
@@ -170,6 +177,8 @@ blocks = numpy.array_split(experiment_trials, data['Number_of_blocks'])
 
 KEYS = {color: key for color, key in zip(colors_names, POSSIBLE_KEYS)}
 
+keys_mapping_text = prepare_key_matching_text(colors_to_key)
+
 key_labes = visual.TextStim(win=win, text='{0}    {1}    {2}    {3}'.format(*colors_to_key), color='black',
                             wrapWidth=SCREEN_RES['width'],  height=TEXT_SIZE, pos=(0, -7 * VISUAL_OFFSET))
 
@@ -179,7 +188,7 @@ resp_clock = core.Clock()
 
 
 for idx, block in enumerate(training_trials):
-    show_info(win, join('.', 'messages', 'training{}.txt'.format(idx+1)))
+    show_info(win, join('.', 'messages', 'training{}.txt'.format(idx+1)), insert=keys_mapping_text)
     for trial in block:
         # prepare trial
         true_key, reaction_time, triggers = prepare_trial_info(trial)
@@ -227,7 +236,7 @@ for idx, block in enumerate(training_trials):
 
 # ----------- Start experiment ------------- #
 
-show_info(win, join('.', 'messages', 'instruction.txt'))
+show_info(win, join('.', 'messages', 'instruction.txt'), insert=keys_mapping_text)
 
 for idx, block in enumerate(blocks):
     for trial in block:

@@ -6,10 +6,7 @@ wyswietlac sie beda napisy oznaczajace kolory (np. ZIELONY, CZERWONY itp.)
 Pamietaj: rozpoznawaj wylacznie KOLOR slow, a zupelnie ignoruj tresc napisu.
 
 Naciskaj:
-klawisz Z gdy wyswietlono napis w kolorze ZIELONYM
-klawisz X gdy wyswietlono napis w kolorze NIEBIESKIM
-klawisz N gdy wyswietlono napis w kolorze CZERWONYM
-klawisz M gdy wyswietlono napis w kolorze BRAZOWYM
+<--insert-->
 
 Pamietaj, NIE MOZESZ czytac napisów i reagowac zgodnie z nimi.
 Czesto kolor napisu i sam napis beda niezgodne i czytanie napisu moze

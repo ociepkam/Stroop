@@ -1,1 +1,3 @@
-break 2 blebleble
+Przerwa 2
+
+Naciśnij klawisz aby kontunować.
