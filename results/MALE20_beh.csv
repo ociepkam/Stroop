@@ -1,7 +1,2 @@
 EXP,TRIAL_TYPE,TEXT,COLOR,WAIT,RESPTIME,RT,TRUE_KEY,ANSWER,CORR
-training,incongruent,BLUE,pink,1,1,0.15158060769317672,m,z,False
-training,congruent,GREEN,green,1,1,0.0833995621651411,z,z,True
-training,incongruent,GREEN,black,1,1,-1,m,-,False
-training,congruent,RED,red,1,1,-1,z,-,False
-training,congruent,PINK,pink,1,1,-1,z,-,False
-training,incongruent,GREEN,red,1,1,0.4335136425215751,m,m,True
+training,incongruent,BLUE,red,1,1,-1,n,-,False

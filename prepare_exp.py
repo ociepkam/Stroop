@@ -1,7 +1,13 @@
 import random
 from psychopy import visual
 
-stim_text = {'RED': 'red', 'BLUE': 'blue', 'PINK': 'pink', 'BLACK': 'black', 'GREEN': 'green'}
+# text: color
+stim_text = {'RED': 'red', 'BLUE': 'blue', 'PINK': 'pink', 'GREEN': 'green'}
+colors_text = stim_text.keys()
+random.shuffle(colors_text)
+colors_names = [stim_text[color] for color in colors_text]
+left_hand = colors_text[:2]
+right_hand = colors_text[2:]
 
 
 def prepare_trial(trial_type, win, text_size):
@@ -9,8 +15,10 @@ def prepare_trial(trial_type, win, text_size):
     if trial_type == 'congruent':
         color = stim_text[text]
     elif trial_type == 'incongruent':
-        possible_colors = stim_text.values()
-        possible_colors.remove(stim_text[text])
+        if text in left_hand:
+            possible_colors = [stim_text[key] for key in right_hand]
+        else:
+            possible_colors = [stim_text[key] for key in left_hand]
         color = random.choice(possible_colors)
     else:
         raise Exception('Wrong trigger type')
@@ -30,4 +38,5 @@ def prepare_exp(data, win, text_size):
                                    text_size)
     experiment_trials = prepare_part(data['Experiment_trials_congruent'], data['Experiment_trials_incongruent'], win,
                                      text_size)
-    return training_trials, experiment_trials
+
+    return training_trials, experiment_trials, colors_text, colors_names
