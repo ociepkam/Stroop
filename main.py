@@ -35,7 +35,7 @@ POSSIBLE_KEYS = ['z', 'x', 'n', 'm']
 
 @atexit.register
 def save_beh_results():
-    with open(join('results', PART_ID + '_beh.csv'), 'w') as beh_file:
+    with open(join('results', PART_ID + '_beh.csv'), 'wb') as beh_file:
         beh_writer = csv.writer(beh_file)
         beh_writer.writerows(RESULTS)
     logging.flush()
@@ -167,10 +167,9 @@ no_feedb = visual.TextStim(win, text=u'Nie udzieli\u0142e\u015B odpowiedzi', col
 # prepare trials
 training_trials, experiment_trials, colors_to_key, colors_names = prepare_exp(data, win, TEXT_SIZE)
 blocks = numpy.array_split(experiment_trials, data['Number_of_blocks'])
-print colors_to_key
-print colors_names
+
 KEYS = {color: key for color, key in zip(colors_names, POSSIBLE_KEYS)}
-print KEYS
+
 key_labes = visual.TextStim(win=win, text='{0}    {1}    {2}    {3}'.format(*colors_to_key), color='black',
                             wrapWidth=SCREEN_RES['width'],  height=TEXT_SIZE, pos=(0, -7 * VISUAL_OFFSET))
 

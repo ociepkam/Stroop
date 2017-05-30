@@ -1,2 +1,4 @@
-EXP,TRIAL_TYPE,TEXT,COLOR,WAIT,RESPTIME,RT,TRUE_KEY,ANSWER,CORR
-training,incongruent,BLUE,red,1,1,-1,n,-,False
+EXP,TRIAL_TYPE,TEXT,COLOR,WAIT,RESPTIME,RT,TRUE_KEY,ANSWER,CORR
+training,incongruent,PINK,green,1,5,1.483531314181164,m,z,False
+training,congruent,PINK,pink,1,5,0.18347756145521998,x,x,True
+training,incongruent,BLUE,red,1,5,0.0008139890851452947,n,x,False

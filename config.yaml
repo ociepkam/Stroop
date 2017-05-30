@@ -1,4 +1,4 @@
-NIRS: False
+NIRS: True
 Observer: Kasia
 Data: .06.2017
 Training_trials_congruent: 3
@@ -7,7 +7,7 @@ Number_of_blocks: 3
 Experiment_trials_congruent: 4
 Experiment_trials_incongruent: 4
 Fix_time: 1
-Resp_time: 1
+Resp_time: 5
 Wait_time: 1
 Feedb: True
 Feedb_time: 1
