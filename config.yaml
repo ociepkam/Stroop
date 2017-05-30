@@ -1,17 +1,13 @@
 NIRS: True
 Observer: Kasia
 Data: .06.2017
-Training_trials_congruent: 3
-Training_trials_incongruent: 3
-Number_of_blocks: 3
-Experiment_trials_congruent: 4
-Experiment_trials_incongruent: 4
+Training_trials_congruent: 4
+Training_trials_incongruent: 4
+Number_of_blocks: 2
+Experiment_trials_congruent: 60
+Experiment_trials_incongruent: 60
 Fix_time: 1
-Resp_time: 5
-Wait_time: 1
+Resp_time: 2
+Wait_time: 10
 Feedb: True
 Feedb_time: 1
-Congruent_answer: congruent
-Incongruent_answer: incongruent
-
-
