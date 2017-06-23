@@ -21,6 +21,8 @@ Experiment_trials_neutral: 0
 Experiment_Resp_time: 3
 Experiment_Wait_time: 12
 
+Jitter: 1
+
 Fix_time: 1
 Feedb: True
 Feedb_time: 1

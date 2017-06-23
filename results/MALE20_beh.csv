@@ -1,3 +1,6 @@
 EXP,TRIAL_TYPE,TEXT,COLOR,WAIT,RESPTIME,RT,TRUE_KEY,ANSWER,CORR
-training,neutral,HHHHH,red,1,4,2.716774864771196,x,x,True
-training,neutral,HHHHH,green,1,4,1.5501820691551984,m,z,False
+training,neutral,HHHHH,blue,1,4,1.2666261503454734,n,z,False
+training,neutral,HHHHH,#8b4513,1,4,0.333437350168424,z,z,True
+training,neutral,HHHHH,green,1,4,0.33341586262099554,m,z,False
+training,neutral,HHHHH,#8b4513,1,4,0.05009709485170788,z,z,True
+training,neutral,HHHHH,#8b4513,1,4,-1,z,-,False

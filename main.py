@@ -6,10 +6,11 @@ import csv
 from os.path import join
 import yaml
 from psychopy import visual, event, logging, gui, core
-from misc.screen_misc import get_frame_rate, get_screen_res
+from misc.screen_misc import get_screen_res
 from prepare_exp import prepare_exp
 import time
 import numpy
+import random
 
 
 class CongruentTriggers(object):
@@ -26,6 +27,7 @@ class IncongruentTriggers(object):
 
 # GLOBALS
 TEXT_SIZE = 40
+TEXT_COLOR = '#f2f2f2'
 VISUAL_OFFSET = 50
 FIGURES_SCALE = 0.4
 RESULTS = [['EXP', 'TRIAL_TYPE', 'TEXT', 'COLOR', 'WAIT', 'RESPTIME', 'RT', 'TRUE_KEY', 'ANSWER', 'CORR']]
@@ -81,7 +83,7 @@ def show_info(win, file_name, insert=''):
     :return:
     """
     msg = read_text_from_file(file_name, insert=insert)
-    msg = visual.TextStim(win, color='black', text=msg, height=TEXT_SIZE - 20, wrapWidth=SCREEN_RES['width'])
+    msg = visual.TextStim(win, color=TEXT_COLOR, text=msg, height=TEXT_SIZE - 20, wrapWidth=SCREEN_RES['width'])
     msg.draw()
     win.flip()
     key = event.waitKeys(keyList=['f7', 'return', 'space'])
@@ -162,14 +164,14 @@ logging.LogFile('results/' + PART_ID + '.log', level=logging.INFO)
 
 # prepare screen
 SCREEN_RES = get_screen_res()
-win = visual.Window(SCREEN_RES.values(), fullscr=True, monitor='testMonitor', units='pix', screen=0, color='Gainsboro')
+win = visual.Window(SCREEN_RES.values(), fullscr=True, monitor='testMonitor', units='pix', screen=0, color='#262626')
 mouse = event.Mouse(visible=False)
-fixation = visual.TextStim(win, color='black', text='+', height=2 * TEXT_SIZE)
+fixation = visual.TextStim(win, color=TEXT_COLOR, text='+', height=2 * TEXT_SIZE)
 
 # prepare feedb
-pos_feedb = visual.TextStim(win, text=u'Poprawna odpowied\u017A', color='black', height=TEXT_SIZE)
-neg_feedb = visual.TextStim(win, text=u'Odpowied\u017A niepoprawna', color='black', height=TEXT_SIZE)
-no_feedb = visual.TextStim(win, text=u'Nie udzieli\u0142e\u015B odpowiedzi', color='black', height=TEXT_SIZE)
+pos_feedb = visual.TextStim(win, text=u'Poprawna odpowied\u017A', color=TEXT_COLOR, height=TEXT_SIZE)
+neg_feedb = visual.TextStim(win, text=u'Odpowied\u017A niepoprawna', color=TEXT_COLOR, height=TEXT_SIZE)
+no_feedb = visual.TextStim(win, text=u'Nie udzieli\u0142e\u015B odpowiedzi', color=TEXT_COLOR, height=TEXT_SIZE)
 
 # prepare trials
 training_trials, experiment_trials, colors_to_key, colors_names = prepare_exp(data, win, TEXT_SIZE)
@@ -179,7 +181,7 @@ KEYS = {color: key for color, key in zip(colors_names, POSSIBLE_KEYS)}
 
 keys_mapping_text = prepare_key_matching_text(colors_to_key)
 
-key_labes = visual.TextStim(win=win, text='{0}    {1}    {2}    {3}'.format(*colors_to_key), color='black',
+key_labes = visual.TextStim(win=win, text='{0}    {1}    {2}    {3}'.format(*colors_to_key), color=TEXT_COLOR,
                             wrapWidth=SCREEN_RES['width'],  height=TEXT_SIZE, pos=(0, -7 * VISUAL_OFFSET))
 
 resp_clock = core.Clock()
@@ -284,6 +286,11 @@ for idx, block in enumerate(blocks):
 
         # wait
         time.sleep(data['Experiment_Wait_time'])
+        check_exit()
+
+        # jitter
+        jitter = random.random()*data['Jitter']
+        time.sleep(jitter)
         check_exit()
 
     if idx+1 < len(blocks):
