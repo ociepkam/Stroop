@@ -12,8 +12,10 @@ Pamietaj, NIE MOZESZ czytac napisów i reagowac zgodnie z nimi.
 Czesto kolor napisu i sam napis beda niezgodne i czytanie napisu moze
 prowadzic do blednej reakcji. Rozpoznawaj wylacznie KOLORY!
 Np. jesli slowo "NIEBIESKI" bedzie wyswietlone w kolorze czerwonym,
-to musisz nacisnac klawisz N (a nie - X!). Po prostu ignoruj tresc napisow.
-Staraj się naciskac wlasciwy klawisz. Jesli popelnisz blad, uslyszysz dzwiek.
+to musisz nacisnac klawisz odpowiadajacy za kolor czerwony (nie niebieski!).
+Po prostu ignoruj tresc napisow.
+Staraj się naciskac wlasciwy klawisz.
+Po kazdej probie pojawi sie informacja o poprawnosci wykonania zadania.
 
 Staraj sie reagowac szybko i poprawnie!
 

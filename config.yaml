@@ -19,9 +19,9 @@ Experiment_trials_incongruent: 80
 Experiment_trials_neutral: 0
 
 Experiment_Resp_time: 3
-Experiment_Wait_time: 12
+Experiment_Wait_time: 11
 
-Jitter: 1
+Jitter: 2
 
 Fix_time: 1
 Feedb: True

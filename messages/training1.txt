@@ -6,7 +6,8 @@ Naciskaj:
 
 Jesli rozumiesz polecenie, przechodzimy do wykonywania zadania. 
 Poloz palce lewej reki na klawiszach Z i X, a prawej - na N i M.
-Staraj się naciskac wlasciwy klawisz. Jesli popelnisz blad, uslyszysz dzwiek.
+Staraj się naciskac wlasciwy klawisz.
+Po kazdej probie pojawi sie informacja o poprawnosci wykonania zadania.
 Podpowiedz u dolu ekranu bedzie przypominac Ci klawisze.
 
 Poczekaj na polecenie osoby badajacej. 

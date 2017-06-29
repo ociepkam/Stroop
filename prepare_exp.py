@@ -2,7 +2,7 @@ import random
 from psychopy import visual
 
 
-stim_text = {'CZERWONY': 'red', 'NIEBIESKI': 'blue', 'BRAZOWY': '#8b4513', 'ZIELONY': 'green'}  # text: color
+stim_text = {'CZERWONY': 'red', 'NIEBIESKI': '#5e75d9', 'BRAZOWY': '#574400', 'ZIELONY': 'green'}  # text: color
 stim_neutral = "HHHHH"
 colors_text = stim_text.keys()
 random.shuffle(colors_text)

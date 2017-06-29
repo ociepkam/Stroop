@@ -244,6 +244,7 @@ for idx, block in enumerate(blocks):
     for trial in block:
         # prepare trial
         true_key, reaction_time, triggers = prepare_trial_info(trial)
+        jitter = random.random() * data['Jitter']
 
         # show fix
         show_info_2(win=win, info=fixation, show_time=data['Fix_time'])
@@ -279,8 +280,9 @@ for idx, block in enumerate(blocks):
             ans = key[0]
         else:
             ans = '-'
+
         RESULTS.append(
-            ['experiment', trial['trial_type'], trial['text'], trial['color'], data['Experiment_Wait_time'],
+            ['experiment', trial['trial_type'], trial['text'], trial['color'], data['Experiment_Wait_time']+jitter,
              data['Experiment_Resp_time'], reaction_time, true_key, ans, ans == true_key])
         check_exit()
 
@@ -289,7 +291,6 @@ for idx, block in enumerate(blocks):
         check_exit()
 
         # jitter
-        jitter = random.random()*data['Jitter']
         time.sleep(jitter)
         check_exit()
 
