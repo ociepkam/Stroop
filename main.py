@@ -264,7 +264,7 @@ for idx, block in enumerate(blocks):
             if key:
                 reaction_time = resp_clock.getTime()
                 if data['NIRS']:
-                    if key == true_key:
+                    if key[0] == true_key:
                         NIRS.activate_line(triggers.ParticipantReactGood)
                     else:
                         NIRS.activate_line(triggers.ParticipantReactBad)
