@@ -32,6 +32,8 @@ VISUAL_OFFSET = 50
 FIGURES_SCALE = 0.4
 RESULTS = [['EXP', 'TRIAL_TYPE', 'TEXT', 'COLOR', 'WAIT', 'RESPTIME', 'RT', 'TRUE_KEY', 'ANSWER', 'CORR']]
 POSSIBLE_KEYS = ['z', 'x', 'n', 'm']
+LEFT_KEYS = POSSIBLE_KEYS[:2]
+RIGHT_KEYS = POSSIBLE_KEYS[2:]
 # TRIGGER_LIST = []
 
 
@@ -161,7 +163,7 @@ if not dictDlg.OK:
 PART_ID = str(info['Part_id'] + info['Part_sex'] + info['Part_age'])
 
 logging.LogFile('results/' + PART_ID + '.log', level=logging.INFO)
-
+logging.info(info)
 # prepare screen
 SCREEN_RES = get_screen_res()
 win = visual.Window(SCREEN_RES.values(), fullscr=True, monitor='testMonitor', units='pix', screen=0, color='#262626')
