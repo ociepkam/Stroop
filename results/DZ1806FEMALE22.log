@@ -1,0 +1,2099 @@
+61.7875 	INFO 	Screen res set as: 1920x1080
+61.7879 	INFO 	Loaded monitor calibration from ['2015_01_04 15:20']
+62.7014 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='#262626', colorSpace='hex', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x031ED0A8>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units='pix', useFBO=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+62.7014 	INFO 	Mouse: using default window
+62.8100 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=u'+', units='pix', win=Window(...), wrapWidth=500)
+62.8281 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=u'Poprawna odpowied\u017a', units='pix', win=Window(...), wrapWidth=500)
+62.8337 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=u'Odpowied\u017a niepoprawna', units='pix', win=Window(...), wrapWidth=500)
+62.8412 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=u'Nie udzieli\u0142e\u015b odpowiedzi', units='pix', win=Window(...), wrapWidth=500)
+62.8454 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8481 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8509 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8535 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8562 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8589 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8615 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8642 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8668 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8694 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8720 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8747 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8774 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8806 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8833 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8859 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8885 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8912 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8937 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8964 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.8990 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9016 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9043 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9069 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9096 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9122 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9150 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9213 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9241 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9268 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9295 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9323 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9351 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9377 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9405 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9432 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9458 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9487 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9513 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9539 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'HHHHH', units='pix', win=Window(...), wrapWidth=500)
+62.9633 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+62.9705 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+62.9753 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+62.9792 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+62.9857 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+62.9904 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+62.9949 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+62.9993 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.0057 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.0094 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.0137 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.0185 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.0228 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.0269 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.0313 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.0356 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.0398 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.0442 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.0513 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.0549 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.0590 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.0632 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.0667 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.0705 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.0740 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.0781 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.0822 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.0860 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.0901 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.0936 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.0982 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.1016 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1050 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1093 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.1146 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.1179 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1220 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.1260 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.1307 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.1351 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.1390 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.1431 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.1472 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.1512 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.1552 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.1598 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.1633 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1681 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.1714 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1754 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.1793 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.1827 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1861 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1898 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.1939 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.1984 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.2022 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.2067 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.2103 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2137 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2177 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.2223 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.2265 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.2299 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2333 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2374 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.2406 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2440 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2474 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2511 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2557 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.2607 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.2651 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.2695 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.2738 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.2781 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.2815 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2850 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2891 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.2936 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.2975 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.3019 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.3060 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.3094 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.3137 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.3184 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.3220 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.3259 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3299 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3343 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.3388 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.3421 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.3465 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3519 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.3554 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.3596 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3637 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3677 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.3715 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.3755 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3801 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3840 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.3881 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.3914 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.3948 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.3987 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.4031 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4071 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.4106 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4147 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4187 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.4221 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4262 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4300 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.4340 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4378 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4423 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.4466 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.4507 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4552 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.4585 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4625 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4676 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4710 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4753 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.4787 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4828 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.4862 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4895 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4929 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.4970 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.5008 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.5052 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.5092 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5130 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5174 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.5213 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5252 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5285 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.5323 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5369 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.5408 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5449 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.5487 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5533 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.5579 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.5619 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5660 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.5707 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.5746 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5785 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5826 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.5866 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.5906 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.5943 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.5991 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.6037 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.6077 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.6117 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.6152 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6186 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6220 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6254 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6294 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.6330 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6365 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6416 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.6459 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.6493 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6535 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.6577 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.6611 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6650 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#8b4513', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([139,  69,  19]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.6691 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.6735 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.6781 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.6823 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.6868 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.6915 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.6951 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.6994 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7036 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7078 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7119 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.7164 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7207 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7252 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7297 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7337 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.7373 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.7414 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7456 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.7496 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='green', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.7544 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7588 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7632 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'ZIELONY', units='pix', win=Window(...), wrapWidth=500)
+63.7666 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'BRAZOWY', units='pix', win=Window(...), wrapWidth=500)
+63.7711 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.7759 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'CZERWONY', units='pix', win=Window(...), wrapWidth=500)
+63.7800 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='blue', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=80, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([   0.,    0.,  255.]), text=u'NIEBIESKI', units='pix', win=Window(...), wrapWidth=500)
+63.7906 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([   0., -350.]), rgb=array([242, 242, 242]), text=u'NIEBIESKI    CZERWONY    ZIELONY    BRAZOWY', units='pix', win=Window(...), wrapWidth=1920)
+63.8711 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=unicode(...), units='pix', win=Window(...), wrapWidth=1920)
+96.3292 	DATA 	Keypress: space
+96.3629 	EXP 	unnamed TextStim: autoDraw = True
+97.3795 	EXP 	unnamed TextStim: autoDraw = False
+97.3961 	EXP 	unnamed TextStim: autoDraw = True
+97.3961 	EXP 	unnamed TextStim: autoDraw = True
+99.4177 	DATA 	Keypress: m
+99.4292 	EXP 	unnamed TextStim: autoDraw = False
+99.4292 	EXP 	unnamed TextStim: autoDraw = False
+99.4458 	EXP 	unnamed TextStim: autoDraw = True
+100.4625 	EXP 	unnamed TextStim: autoDraw = False
+101.4790 	EXP 	unnamed TextStim: autoDraw = True
+102.4955 	EXP 	unnamed TextStim: autoDraw = False
+102.5122 	EXP 	unnamed TextStim: autoDraw = True
+102.5122 	EXP 	unnamed TextStim: autoDraw = True
+103.1455 	DATA 	Keypress: m
+103.1620 	EXP 	unnamed TextStim: autoDraw = False
+103.1620 	EXP 	unnamed TextStim: autoDraw = False
+103.1787 	EXP 	unnamed TextStim: autoDraw = True
+104.1953 	EXP 	unnamed TextStim: autoDraw = False
+105.2118 	EXP 	unnamed TextStim: autoDraw = True
+106.2283 	EXP 	unnamed TextStim: autoDraw = False
+106.2450 	EXP 	unnamed TextStim: autoDraw = True
+106.2450 	EXP 	unnamed TextStim: autoDraw = True
+107.2283 	DATA 	Keypress: x
+107.2448 	EXP 	unnamed TextStim: autoDraw = False
+107.2448 	EXP 	unnamed TextStim: autoDraw = False
+107.2615 	EXP 	unnamed TextStim: autoDraw = True
+108.2781 	EXP 	unnamed TextStim: autoDraw = False
+109.2946 	EXP 	unnamed TextStim: autoDraw = True
+110.3111 	EXP 	unnamed TextStim: autoDraw = False
+110.3278 	EXP 	unnamed TextStim: autoDraw = True
+110.3278 	EXP 	unnamed TextStim: autoDraw = True
+111.3444 	DATA 	Keypress: x
+111.3610 	EXP 	unnamed TextStim: autoDraw = False
+111.3610 	EXP 	unnamed TextStim: autoDraw = False
+111.3776 	EXP 	unnamed TextStim: autoDraw = True
+112.3942 	EXP 	unnamed TextStim: autoDraw = False
+113.4107 	EXP 	unnamed TextStim: autoDraw = True
+114.4272 	EXP 	unnamed TextStim: autoDraw = False
+114.4439 	EXP 	unnamed TextStim: autoDraw = True
+114.4439 	EXP 	unnamed TextStim: autoDraw = True
+115.2273 	DATA 	Keypress: m
+115.2438 	EXP 	unnamed TextStim: autoDraw = False
+115.2438 	EXP 	unnamed TextStim: autoDraw = False
+115.2604 	EXP 	unnamed TextStim: autoDraw = True
+116.2770 	EXP 	unnamed TextStim: autoDraw = False
+117.2935 	EXP 	unnamed TextStim: autoDraw = True
+118.3100 	EXP 	unnamed TextStim: autoDraw = False
+118.3267 	EXP 	unnamed TextStim: autoDraw = True
+118.3267 	EXP 	unnamed TextStim: autoDraw = True
+119.2434 	DATA 	Keypress: m
+119.2599 	EXP 	unnamed TextStim: autoDraw = False
+119.2599 	EXP 	unnamed TextStim: autoDraw = False
+119.2766 	EXP 	unnamed TextStim: autoDraw = True
+120.2931 	EXP 	unnamed TextStim: autoDraw = False
+121.3097 	EXP 	unnamed TextStim: autoDraw = True
+122.3262 	EXP 	unnamed TextStim: autoDraw = False
+122.3429 	EXP 	unnamed TextStim: autoDraw = True
+122.3429 	EXP 	unnamed TextStim: autoDraw = True
+123.0429 	DATA 	Keypress: m
+123.0594 	EXP 	unnamed TextStim: autoDraw = False
+123.0594 	EXP 	unnamed TextStim: autoDraw = False
+123.0761 	EXP 	unnamed TextStim: autoDraw = True
+124.0926 	EXP 	unnamed TextStim: autoDraw = False
+125.1091 	EXP 	unnamed TextStim: autoDraw = True
+126.1257 	EXP 	unnamed TextStim: autoDraw = False
+126.1423 	EXP 	unnamed TextStim: autoDraw = True
+126.1423 	EXP 	unnamed TextStim: autoDraw = True
+126.6257 	DATA 	Keypress: m
+126.6422 	EXP 	unnamed TextStim: autoDraw = False
+126.6422 	EXP 	unnamed TextStim: autoDraw = False
+126.6589 	EXP 	unnamed TextStim: autoDraw = True
+127.6755 	EXP 	unnamed TextStim: autoDraw = False
+128.6920 	EXP 	unnamed TextStim: autoDraw = True
+129.7085 	EXP 	unnamed TextStim: autoDraw = False
+129.7252 	EXP 	unnamed TextStim: autoDraw = True
+129.7252 	EXP 	unnamed TextStim: autoDraw = True
+130.1919 	DATA 	Keypress: m
+130.2084 	EXP 	unnamed TextStim: autoDraw = False
+130.2084 	EXP 	unnamed TextStim: autoDraw = False
+130.2251 	EXP 	unnamed TextStim: autoDraw = True
+131.2417 	EXP 	unnamed TextStim: autoDraw = False
+132.2582 	EXP 	unnamed TextStim: autoDraw = True
+133.2747 	EXP 	unnamed TextStim: autoDraw = False
+133.2914 	EXP 	unnamed TextStim: autoDraw = True
+133.2914 	EXP 	unnamed TextStim: autoDraw = True
+133.7581 	DATA 	Keypress: m
+133.7746 	EXP 	unnamed TextStim: autoDraw = False
+133.7746 	EXP 	unnamed TextStim: autoDraw = False
+133.7913 	EXP 	unnamed TextStim: autoDraw = True
+134.8079 	EXP 	unnamed TextStim: autoDraw = False
+135.8244 	EXP 	unnamed TextStim: autoDraw = True
+136.8409 	EXP 	unnamed TextStim: autoDraw = False
+136.8576 	EXP 	unnamed TextStim: autoDraw = True
+136.8576 	EXP 	unnamed TextStim: autoDraw = True
+137.8124 	DATA 	Keypress: z
+137.8241 	EXP 	unnamed TextStim: autoDraw = False
+137.8241 	EXP 	unnamed TextStim: autoDraw = False
+137.8407 	EXP 	unnamed TextStim: autoDraw = True
+138.8573 	EXP 	unnamed TextStim: autoDraw = False
+139.8738 	EXP 	unnamed TextStim: autoDraw = True
+140.8904 	EXP 	unnamed TextStim: autoDraw = False
+140.9070 	EXP 	unnamed TextStim: autoDraw = True
+140.9070 	EXP 	unnamed TextStim: autoDraw = True
+141.6737 	DATA 	Keypress: x
+141.6902 	EXP 	unnamed TextStim: autoDraw = False
+141.6902 	EXP 	unnamed TextStim: autoDraw = False
+141.7069 	EXP 	unnamed TextStim: autoDraw = True
+142.7235 	EXP 	unnamed TextStim: autoDraw = False
+143.7400 	EXP 	unnamed TextStim: autoDraw = True
+144.7565 	EXP 	unnamed TextStim: autoDraw = False
+144.7732 	EXP 	unnamed TextStim: autoDraw = True
+144.7732 	EXP 	unnamed TextStim: autoDraw = True
+145.7406 	DATA 	Keypress: n
+145.7730 	EXP 	unnamed TextStim: autoDraw = False
+145.7730 	EXP 	unnamed TextStim: autoDraw = False
+145.7897 	EXP 	unnamed TextStim: autoDraw = True
+146.8063 	EXP 	unnamed TextStim: autoDraw = False
+147.8228 	EXP 	unnamed TextStim: autoDraw = True
+148.8393 	EXP 	unnamed TextStim: autoDraw = False
+148.8560 	EXP 	unnamed TextStim: autoDraw = True
+148.8560 	EXP 	unnamed TextStim: autoDraw = True
+149.6227 	DATA 	Keypress: n
+149.6392 	EXP 	unnamed TextStim: autoDraw = False
+149.6392 	EXP 	unnamed TextStim: autoDraw = False
+149.6558 	EXP 	unnamed TextStim: autoDraw = True
+150.6724 	EXP 	unnamed TextStim: autoDraw = False
+151.6889 	EXP 	unnamed TextStim: autoDraw = True
+152.7054 	EXP 	unnamed TextStim: autoDraw = False
+152.7221 	EXP 	unnamed TextStim: autoDraw = True
+152.7221 	EXP 	unnamed TextStim: autoDraw = True
+153.3721 	DATA 	Keypress: m
+153.3886 	EXP 	unnamed TextStim: autoDraw = False
+153.3886 	EXP 	unnamed TextStim: autoDraw = False
+153.4053 	EXP 	unnamed TextStim: autoDraw = True
+154.4219 	EXP 	unnamed TextStim: autoDraw = False
+155.4384 	EXP 	unnamed TextStim: autoDraw = True
+156.4550 	EXP 	unnamed TextStim: autoDraw = False
+156.4716 	EXP 	unnamed TextStim: autoDraw = True
+156.4716 	EXP 	unnamed TextStim: autoDraw = True
+157.0884 	DATA 	Keypress: m
+157.1048 	EXP 	unnamed TextStim: autoDraw = False
+157.1048 	EXP 	unnamed TextStim: autoDraw = False
+157.1215 	EXP 	unnamed TextStim: autoDraw = True
+158.1381 	EXP 	unnamed TextStim: autoDraw = False
+159.1546 	EXP 	unnamed TextStim: autoDraw = True
+160.1711 	EXP 	unnamed TextStim: autoDraw = False
+160.1878 	EXP 	unnamed TextStim: autoDraw = True
+160.1878 	EXP 	unnamed TextStim: autoDraw = True
+161.0878 	DATA 	Keypress: n
+161.1043 	EXP 	unnamed TextStim: autoDraw = False
+161.1043 	EXP 	unnamed TextStim: autoDraw = False
+161.1210 	EXP 	unnamed TextStim: autoDraw = True
+162.1375 	EXP 	unnamed TextStim: autoDraw = False
+163.1540 	EXP 	unnamed TextStim: autoDraw = True
+164.1706 	EXP 	unnamed TextStim: autoDraw = False
+164.1872 	EXP 	unnamed TextStim: autoDraw = True
+164.1872 	EXP 	unnamed TextStim: autoDraw = True
+164.7711 	DATA 	Keypress: m
+164.8038 	EXP 	unnamed TextStim: autoDraw = False
+164.8038 	EXP 	unnamed TextStim: autoDraw = False
+164.8205 	EXP 	unnamed TextStim: autoDraw = True
+165.8370 	EXP 	unnamed TextStim: autoDraw = False
+166.8536 	EXP 	unnamed TextStim: autoDraw = True
+167.8701 	EXP 	unnamed TextStim: autoDraw = False
+167.8867 	EXP 	unnamed TextStim: autoDraw = True
+167.8867 	EXP 	unnamed TextStim: autoDraw = True
+168.9867 	DATA 	Keypress: z
+169.0032 	EXP 	unnamed TextStim: autoDraw = False
+169.0032 	EXP 	unnamed TextStim: autoDraw = False
+169.0199 	EXP 	unnamed TextStim: autoDraw = True
+170.0365 	EXP 	unnamed TextStim: autoDraw = False
+171.0530 	EXP 	unnamed TextStim: autoDraw = True
+172.0695 	EXP 	unnamed TextStim: autoDraw = False
+172.0862 	EXP 	unnamed TextStim: autoDraw = True
+172.0862 	EXP 	unnamed TextStim: autoDraw = True
+172.7695 	DATA 	Keypress: x
+172.7860 	EXP 	unnamed TextStim: autoDraw = False
+172.7860 	EXP 	unnamed TextStim: autoDraw = False
+172.8072 	EXP 	unnamed TextStim: autoDraw = True
+173.8193 	EXP 	unnamed TextStim: autoDraw = False
+174.8358 	EXP 	unnamed TextStim: autoDraw = True
+175.8523 	EXP 	unnamed TextStim: autoDraw = False
+175.8690 	EXP 	unnamed TextStim: autoDraw = True
+175.8690 	EXP 	unnamed TextStim: autoDraw = True
+176.6192 	DATA 	Keypress: m
+176.6355 	EXP 	unnamed TextStim: autoDraw = False
+176.6355 	EXP 	unnamed TextStim: autoDraw = False
+176.6522 	EXP 	unnamed TextStim: autoDraw = True
+177.6688 	EXP 	unnamed TextStim: autoDraw = False
+178.6853 	EXP 	unnamed TextStim: autoDraw = True
+179.7018 	EXP 	unnamed TextStim: autoDraw = False
+179.7185 	EXP 	unnamed TextStim: autoDraw = True
+179.7185 	EXP 	unnamed TextStim: autoDraw = True
+181.0184 	DATA 	Keypress: n
+181.0350 	EXP 	unnamed TextStim: autoDraw = False
+181.0350 	EXP 	unnamed TextStim: autoDraw = False
+181.0516 	EXP 	unnamed TextStim: autoDraw = True
+182.0682 	EXP 	unnamed TextStim: autoDraw = False
+183.0847 	EXP 	unnamed TextStim: autoDraw = True
+184.1013 	EXP 	unnamed TextStim: autoDraw = False
+184.1179 	EXP 	unnamed TextStim: autoDraw = True
+184.1179 	EXP 	unnamed TextStim: autoDraw = True
+185.0179 	DATA 	Keypress: x
+185.0344 	EXP 	unnamed TextStim: autoDraw = False
+185.0344 	EXP 	unnamed TextStim: autoDraw = False
+185.0511 	EXP 	unnamed TextStim: autoDraw = True
+186.0677 	EXP 	unnamed TextStim: autoDraw = False
+187.0842 	EXP 	unnamed TextStim: autoDraw = True
+188.1007 	EXP 	unnamed TextStim: autoDraw = False
+188.1174 	EXP 	unnamed TextStim: autoDraw = True
+188.1174 	EXP 	unnamed TextStim: autoDraw = True
+188.8841 	DATA 	Keypress: x
+188.9006 	EXP 	unnamed TextStim: autoDraw = False
+188.9006 	EXP 	unnamed TextStim: autoDraw = False
+188.9172 	EXP 	unnamed TextStim: autoDraw = True
+189.9338 	EXP 	unnamed TextStim: autoDraw = False
+190.9503 	EXP 	unnamed TextStim: autoDraw = True
+191.9669 	EXP 	unnamed TextStim: autoDraw = False
+191.9835 	EXP 	unnamed TextStim: autoDraw = True
+191.9835 	EXP 	unnamed TextStim: autoDraw = True
+192.8717 	DATA 	Keypress: z
+192.8834 	EXP 	unnamed TextStim: autoDraw = False
+192.8834 	EXP 	unnamed TextStim: autoDraw = False
+192.9000 	EXP 	unnamed TextStim: autoDraw = True
+193.9166 	EXP 	unnamed TextStim: autoDraw = False
+194.9331 	EXP 	unnamed TextStim: autoDraw = True
+195.9497 	EXP 	unnamed TextStim: autoDraw = False
+195.9663 	EXP 	unnamed TextStim: autoDraw = True
+195.9663 	EXP 	unnamed TextStim: autoDraw = True
+197.2996 	DATA 	Keypress: n
+197.3207 	EXP 	unnamed TextStim: autoDraw = False
+197.3207 	EXP 	unnamed TextStim: autoDraw = False
+197.3328 	EXP 	unnamed TextStim: autoDraw = True
+198.3493 	EXP 	unnamed TextStim: autoDraw = False
+199.3659 	EXP 	unnamed TextStim: autoDraw = True
+200.3824 	EXP 	unnamed TextStim: autoDraw = False
+200.3991 	EXP 	unnamed TextStim: autoDraw = True
+200.3991 	EXP 	unnamed TextStim: autoDraw = True
+201.1159 	DATA 	Keypress: x
+201.1323 	EXP 	unnamed TextStim: autoDraw = False
+201.1323 	EXP 	unnamed TextStim: autoDraw = False
+201.1489 	EXP 	unnamed TextStim: autoDraw = True
+202.1655 	EXP 	unnamed TextStim: autoDraw = False
+203.1820 	EXP 	unnamed TextStim: autoDraw = True
+204.1985 	EXP 	unnamed TextStim: autoDraw = False
+204.2152 	EXP 	unnamed TextStim: autoDraw = True
+204.2152 	EXP 	unnamed TextStim: autoDraw = True
+204.9153 	DATA 	Keypress: m
+204.9318 	EXP 	unnamed TextStim: autoDraw = False
+204.9318 	EXP 	unnamed TextStim: autoDraw = False
+204.9484 	EXP 	unnamed TextStim: autoDraw = True
+205.9650 	EXP 	unnamed TextStim: autoDraw = False
+206.9815 	EXP 	unnamed TextStim: autoDraw = True
+207.9980 	EXP 	unnamed TextStim: autoDraw = False
+208.0147 	EXP 	unnamed TextStim: autoDraw = True
+208.0147 	EXP 	unnamed TextStim: autoDraw = True
+208.7148 	DATA 	Keypress: z
+208.7312 	EXP 	unnamed TextStim: autoDraw = False
+208.7312 	EXP 	unnamed TextStim: autoDraw = False
+208.7479 	EXP 	unnamed TextStim: autoDraw = True
+209.7645 	EXP 	unnamed TextStim: autoDraw = False
+210.7810 	EXP 	unnamed TextStim: autoDraw = True
+211.7975 	EXP 	unnamed TextStim: autoDraw = False
+211.8142 	EXP 	unnamed TextStim: autoDraw = True
+211.8142 	EXP 	unnamed TextStim: autoDraw = True
+212.4193 	DATA 	Keypress: x
+212.4308 	EXP 	unnamed TextStim: autoDraw = False
+212.4308 	EXP 	unnamed TextStim: autoDraw = False
+212.4474 	EXP 	unnamed TextStim: autoDraw = True
+213.4640 	EXP 	unnamed TextStim: autoDraw = False
+214.4805 	EXP 	unnamed TextStim: autoDraw = True
+215.4971 	EXP 	unnamed TextStim: autoDraw = False
+215.5137 	EXP 	unnamed TextStim: autoDraw = True
+215.5137 	EXP 	unnamed TextStim: autoDraw = True
+216.2138 	DATA 	Keypress: z
+216.2303 	EXP 	unnamed TextStim: autoDraw = False
+216.2303 	EXP 	unnamed TextStim: autoDraw = False
+216.2469 	EXP 	unnamed TextStim: autoDraw = True
+217.2635 	EXP 	unnamed TextStim: autoDraw = False
+218.2800 	EXP 	unnamed TextStim: autoDraw = True
+219.2965 	EXP 	unnamed TextStim: autoDraw = False
+219.3132 	EXP 	unnamed TextStim: autoDraw = True
+219.3132 	EXP 	unnamed TextStim: autoDraw = True
+219.8632 	DATA 	Keypress: m
+219.8798 	EXP 	unnamed TextStim: autoDraw = False
+219.8798 	EXP 	unnamed TextStim: autoDraw = False
+219.8964 	EXP 	unnamed TextStim: autoDraw = True
+220.9130 	EXP 	unnamed TextStim: autoDraw = False
+221.9295 	EXP 	unnamed TextStim: autoDraw = True
+222.9461 	EXP 	unnamed TextStim: autoDraw = False
+222.9627 	EXP 	unnamed TextStim: autoDraw = True
+222.9627 	EXP 	unnamed TextStim: autoDraw = True
+224.2960 	DATA 	Keypress: n
+224.3125 	EXP 	unnamed TextStim: autoDraw = False
+224.3125 	EXP 	unnamed TextStim: autoDraw = False
+224.3291 	EXP 	unnamed TextStim: autoDraw = True
+225.3457 	EXP 	unnamed TextStim: autoDraw = False
+226.3622 	EXP 	unnamed TextStim: autoDraw = True
+227.3788 	EXP 	unnamed TextStim: autoDraw = False
+227.3955 	EXP 	unnamed TextStim: autoDraw = True
+227.3955 	EXP 	unnamed TextStim: autoDraw = True
+228.1621 	DATA 	Keypress: n
+228.1786 	EXP 	unnamed TextStim: autoDraw = False
+228.1786 	EXP 	unnamed TextStim: autoDraw = False
+228.1953 	EXP 	unnamed TextStim: autoDraw = True
+229.2119 	EXP 	unnamed TextStim: autoDraw = False
+230.2284 	EXP 	unnamed TextStim: autoDraw = True
+231.2449 	EXP 	unnamed TextStim: autoDraw = False
+231.2616 	EXP 	unnamed TextStim: autoDraw = True
+231.2616 	EXP 	unnamed TextStim: autoDraw = True
+231.9783 	DATA 	Keypress: x
+231.9948 	EXP 	unnamed TextStim: autoDraw = False
+231.9948 	EXP 	unnamed TextStim: autoDraw = False
+232.0115 	EXP 	unnamed TextStim: autoDraw = True
+233.0280 	EXP 	unnamed TextStim: autoDraw = False
+234.0446 	EXP 	unnamed TextStim: autoDraw = True
+235.0611 	EXP 	unnamed TextStim: autoDraw = False
+235.0777 	EXP 	unnamed TextStim: autoDraw = True
+235.0777 	EXP 	unnamed TextStim: autoDraw = True
+235.6778 	DATA 	Keypress: x
+235.6943 	EXP 	unnamed TextStim: autoDraw = False
+235.6943 	EXP 	unnamed TextStim: autoDraw = False
+235.7110 	EXP 	unnamed TextStim: autoDraw = True
+236.7275 	EXP 	unnamed TextStim: autoDraw = False
+237.7441 	EXP 	unnamed TextStim: autoDraw = True
+238.7606 	EXP 	unnamed TextStim: autoDraw = False
+238.7772 	EXP 	unnamed TextStim: autoDraw = True
+238.7772 	EXP 	unnamed TextStim: autoDraw = True
+239.3606 	DATA 	Keypress: x
+239.3771 	EXP 	unnamed TextStim: autoDraw = False
+239.3771 	EXP 	unnamed TextStim: autoDraw = False
+239.3938 	EXP 	unnamed TextStim: autoDraw = True
+240.4104 	EXP 	unnamed TextStim: autoDraw = False
+241.4269 	EXP 	unnamed TextStim: autoDraw = True
+242.4435 	EXP 	unnamed TextStim: autoDraw = False
+242.4601 	EXP 	unnamed TextStim: autoDraw = True
+242.4601 	EXP 	unnamed TextStim: autoDraw = True
+243.0768 	DATA 	Keypress: m
+243.0933 	EXP 	unnamed TextStim: autoDraw = False
+243.0933 	EXP 	unnamed TextStim: autoDraw = False
+243.1100 	EXP 	unnamed TextStim: autoDraw = True
+244.1266 	EXP 	unnamed TextStim: autoDraw = False
+245.1431 	EXP 	unnamed TextStim: autoDraw = True
+246.1596 	EXP 	unnamed TextStim: autoDraw = False
+246.1762 	EXP 	unnamed TextStim: autoDraw = True
+246.1762 	EXP 	unnamed TextStim: autoDraw = True
+246.7597 	DATA 	Keypress: x
+246.7762 	EXP 	unnamed TextStim: autoDraw = False
+246.7762 	EXP 	unnamed TextStim: autoDraw = False
+246.7929 	EXP 	unnamed TextStim: autoDraw = True
+247.8094 	EXP 	unnamed TextStim: autoDraw = False
+248.8259 	EXP 	unnamed TextStim: autoDraw = True
+249.8425 	EXP 	unnamed TextStim: autoDraw = False
+249.8591 	EXP 	unnamed TextStim: autoDraw = True
+249.8591 	EXP 	unnamed TextStim: autoDraw = True
+250.7258 	DATA 	Keypress: n
+250.7423 	EXP 	unnamed TextStim: autoDraw = False
+250.7423 	EXP 	unnamed TextStim: autoDraw = False
+250.7590 	EXP 	unnamed TextStim: autoDraw = True
+251.7755 	EXP 	unnamed TextStim: autoDraw = False
+252.8960 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=unicode(...), units='pix', win=Window(...), wrapWidth=1920)
+278.6475 	DATA 	Keypress: space
+278.6718 	EXP 	unnamed TextStim: autoDraw = True
+279.6885 	EXP 	unnamed TextStim: autoDraw = False
+279.7051 	EXP 	unnamed TextStim: autoDraw = True
+279.7051 	EXP 	unnamed TextStim: autoDraw = True
+280.6050 	DATA 	Keypress: m
+280.6266 	EXP 	unnamed TextStim: autoDraw = False
+280.6266 	EXP 	unnamed TextStim: autoDraw = False
+280.6383 	EXP 	unnamed TextStim: autoDraw = True
+281.6549 	EXP 	unnamed TextStim: autoDraw = False
+282.6714 	EXP 	unnamed TextStim: autoDraw = True
+283.6879 	EXP 	unnamed TextStim: autoDraw = False
+283.7046 	EXP 	unnamed TextStim: autoDraw = True
+283.7046 	EXP 	unnamed TextStim: autoDraw = True
+285.0545 	DATA 	Keypress: z
+285.0710 	EXP 	unnamed TextStim: autoDraw = False
+285.0710 	EXP 	unnamed TextStim: autoDraw = False
+285.0877 	EXP 	unnamed TextStim: autoDraw = True
+286.1042 	EXP 	unnamed TextStim: autoDraw = False
+287.1208 	EXP 	unnamed TextStim: autoDraw = True
+288.1373 	EXP 	unnamed TextStim: autoDraw = False
+288.1540 	EXP 	unnamed TextStim: autoDraw = True
+288.1540 	EXP 	unnamed TextStim: autoDraw = True
+289.0540 	DATA 	Keypress: x
+289.0705 	EXP 	unnamed TextStim: autoDraw = False
+289.0705 	EXP 	unnamed TextStim: autoDraw = False
+289.0872 	EXP 	unnamed TextStim: autoDraw = True
+290.1037 	EXP 	unnamed TextStim: autoDraw = False
+291.1202 	EXP 	unnamed TextStim: autoDraw = True
+292.1368 	EXP 	unnamed TextStim: autoDraw = False
+292.1534 	EXP 	unnamed TextStim: autoDraw = True
+292.1534 	EXP 	unnamed TextStim: autoDraw = True
+292.6702 	DATA 	Keypress: m
+292.6867 	EXP 	unnamed TextStim: autoDraw = False
+292.6867 	EXP 	unnamed TextStim: autoDraw = False
+292.7033 	EXP 	unnamed TextStim: autoDraw = True
+293.7199 	EXP 	unnamed TextStim: autoDraw = False
+294.7364 	EXP 	unnamed TextStim: autoDraw = True
+295.7530 	EXP 	unnamed TextStim: autoDraw = False
+295.7696 	EXP 	unnamed TextStim: autoDraw = True
+295.7696 	EXP 	unnamed TextStim: autoDraw = True
+296.5363 	DATA 	Keypress: z
+296.5528 	EXP 	unnamed TextStim: autoDraw = False
+296.5528 	EXP 	unnamed TextStim: autoDraw = False
+296.5695 	EXP 	unnamed TextStim: autoDraw = True
+297.5861 	EXP 	unnamed TextStim: autoDraw = False
+298.6026 	EXP 	unnamed TextStim: autoDraw = True
+299.6191 	EXP 	unnamed TextStim: autoDraw = False
+299.6357 	EXP 	unnamed TextStim: autoDraw = True
+299.6357 	EXP 	unnamed TextStim: autoDraw = True
+301.1857 	DATA 	Keypress: m
+301.2022 	EXP 	unnamed TextStim: autoDraw = False
+301.2022 	EXP 	unnamed TextStim: autoDraw = False
+301.2189 	EXP 	unnamed TextStim: autoDraw = True
+302.2354 	EXP 	unnamed TextStim: autoDraw = False
+303.2520 	EXP 	unnamed TextStim: autoDraw = True
+304.2685 	EXP 	unnamed TextStim: autoDraw = False
+304.2851 	EXP 	unnamed TextStim: autoDraw = True
+304.2851 	EXP 	unnamed TextStim: autoDraw = True
+305.1851 	DATA 	Keypress: m
+305.2017 	EXP 	unnamed TextStim: autoDraw = False
+305.2017 	EXP 	unnamed TextStim: autoDraw = False
+305.2183 	EXP 	unnamed TextStim: autoDraw = True
+306.2349 	EXP 	unnamed TextStim: autoDraw = False
+307.2514 	EXP 	unnamed TextStim: autoDraw = True
+308.2680 	EXP 	unnamed TextStim: autoDraw = False
+308.2846 	EXP 	unnamed TextStim: autoDraw = True
+308.2846 	EXP 	unnamed TextStim: autoDraw = True
+309.3013 	DATA 	Keypress: z
+309.3178 	EXP 	unnamed TextStim: autoDraw = False
+309.3178 	EXP 	unnamed TextStim: autoDraw = False
+309.3344 	EXP 	unnamed TextStim: autoDraw = True
+310.3510 	EXP 	unnamed TextStim: autoDraw = False
+311.3675 	EXP 	unnamed TextStim: autoDraw = True
+312.3841 	EXP 	unnamed TextStim: autoDraw = False
+312.4007 	EXP 	unnamed TextStim: autoDraw = True
+312.4007 	EXP 	unnamed TextStim: autoDraw = True
+313.3724 	DATA 	Keypress: z
+313.3839 	EXP 	unnamed TextStim: autoDraw = False
+313.3839 	EXP 	unnamed TextStim: autoDraw = False
+313.4005 	EXP 	unnamed TextStim: autoDraw = True
+314.4171 	EXP 	unnamed TextStim: autoDraw = False
+315.4337 	EXP 	unnamed TextStim: autoDraw = True
+316.4502 	EXP 	unnamed TextStim: autoDraw = False
+316.4669 	EXP 	unnamed TextStim: autoDraw = True
+316.4669 	EXP 	unnamed TextStim: autoDraw = True
+317.2335 	DATA 	Keypress: z
+317.2501 	EXP 	unnamed TextStim: autoDraw = False
+317.2501 	EXP 	unnamed TextStim: autoDraw = False
+317.2667 	EXP 	unnamed TextStim: autoDraw = True
+318.2833 	EXP 	unnamed TextStim: autoDraw = False
+319.2998 	EXP 	unnamed TextStim: autoDraw = True
+320.3163 	EXP 	unnamed TextStim: autoDraw = False
+320.3329 	EXP 	unnamed TextStim: autoDraw = True
+320.3329 	EXP 	unnamed TextStim: autoDraw = True
+321.0830 	DATA 	Keypress: z
+321.1043 	EXP 	unnamed TextStim: autoDraw = False
+321.1043 	EXP 	unnamed TextStim: autoDraw = False
+321.1162 	EXP 	unnamed TextStim: autoDraw = True
+322.1328 	EXP 	unnamed TextStim: autoDraw = False
+323.1493 	EXP 	unnamed TextStim: autoDraw = True
+324.1658 	EXP 	unnamed TextStim: autoDraw = False
+324.1825 	EXP 	unnamed TextStim: autoDraw = True
+324.1825 	EXP 	unnamed TextStim: autoDraw = True
+325.3491 	DATA 	Keypress: n
+325.3656 	EXP 	unnamed TextStim: autoDraw = False
+325.3656 	EXP 	unnamed TextStim: autoDraw = False
+325.3823 	EXP 	unnamed TextStim: autoDraw = True
+326.3989 	EXP 	unnamed TextStim: autoDraw = False
+327.4154 	EXP 	unnamed TextStim: autoDraw = True
+328.4319 	EXP 	unnamed TextStim: autoDraw = False
+328.4485 	EXP 	unnamed TextStim: autoDraw = True
+328.4485 	EXP 	unnamed TextStim: autoDraw = True
+329.2826 	DATA 	Keypress: n
+329.3195 	EXP 	unnamed TextStim: autoDraw = False
+329.3195 	EXP 	unnamed TextStim: autoDraw = False
+329.3318 	EXP 	unnamed TextStim: autoDraw = True
+330.3483 	EXP 	unnamed TextStim: autoDraw = False
+331.3649 	EXP 	unnamed TextStim: autoDraw = True
+332.3814 	EXP 	unnamed TextStim: autoDraw = False
+332.3980 	EXP 	unnamed TextStim: autoDraw = True
+332.3980 	EXP 	unnamed TextStim: autoDraw = True
+333.2147 	DATA 	Keypress: n
+333.2312 	EXP 	unnamed TextStim: autoDraw = False
+333.2312 	EXP 	unnamed TextStim: autoDraw = False
+333.2478 	EXP 	unnamed TextStim: autoDraw = True
+334.2645 	EXP 	unnamed TextStim: autoDraw = False
+335.2810 	EXP 	unnamed TextStim: autoDraw = True
+336.2975 	EXP 	unnamed TextStim: autoDraw = False
+336.3142 	EXP 	unnamed TextStim: autoDraw = True
+336.3142 	EXP 	unnamed TextStim: autoDraw = True
+336.9142 	DATA 	Keypress: n
+336.9307 	EXP 	unnamed TextStim: autoDraw = False
+336.9307 	EXP 	unnamed TextStim: autoDraw = False
+336.9474 	EXP 	unnamed TextStim: autoDraw = True
+337.9640 	EXP 	unnamed TextStim: autoDraw = False
+338.9805 	EXP 	unnamed TextStim: autoDraw = True
+339.9971 	EXP 	unnamed TextStim: autoDraw = False
+340.0137 	EXP 	unnamed TextStim: autoDraw = True
+340.0137 	EXP 	unnamed TextStim: autoDraw = True
+340.6304 	DATA 	Keypress: n
+340.6469 	EXP 	unnamed TextStim: autoDraw = False
+340.6469 	EXP 	unnamed TextStim: autoDraw = False
+340.6636 	EXP 	unnamed TextStim: autoDraw = True
+341.6802 	EXP 	unnamed TextStim: autoDraw = False
+342.6967 	EXP 	unnamed TextStim: autoDraw = True
+343.7132 	EXP 	unnamed TextStim: autoDraw = False
+343.7298 	EXP 	unnamed TextStim: autoDraw = True
+343.7298 	EXP 	unnamed TextStim: autoDraw = True
+344.5798 	DATA 	Keypress: m
+344.6010 	EXP 	unnamed TextStim: autoDraw = False
+344.6010 	EXP 	unnamed TextStim: autoDraw = False
+344.6130 	EXP 	unnamed TextStim: autoDraw = True
+345.6296 	EXP 	unnamed TextStim: autoDraw = False
+346.6462 	EXP 	unnamed TextStim: autoDraw = True
+347.6627 	EXP 	unnamed TextStim: autoDraw = False
+347.6793 	EXP 	unnamed TextStim: autoDraw = True
+347.6793 	EXP 	unnamed TextStim: autoDraw = True
+348.7293 	DATA 	Keypress: n
+348.7507 	EXP 	unnamed TextStim: autoDraw = False
+348.7507 	EXP 	unnamed TextStim: autoDraw = False
+348.7625 	EXP 	unnamed TextStim: autoDraw = True
+349.7791 	EXP 	unnamed TextStim: autoDraw = False
+350.7956 	EXP 	unnamed TextStim: autoDraw = True
+351.8121 	EXP 	unnamed TextStim: autoDraw = False
+351.8288 	EXP 	unnamed TextStim: autoDraw = True
+351.8288 	EXP 	unnamed TextStim: autoDraw = True
+352.7287 	DATA 	Keypress: x
+352.7453 	EXP 	unnamed TextStim: autoDraw = False
+352.7453 	EXP 	unnamed TextStim: autoDraw = False
+352.7619 	EXP 	unnamed TextStim: autoDraw = True
+353.7785 	EXP 	unnamed TextStim: autoDraw = False
+354.7950 	EXP 	unnamed TextStim: autoDraw = True
+355.8116 	EXP 	unnamed TextStim: autoDraw = False
+355.8282 	EXP 	unnamed TextStim: autoDraw = True
+355.8282 	EXP 	unnamed TextStim: autoDraw = True
+356.4949 	DATA 	Keypress: m
+356.5115 	EXP 	unnamed TextStim: autoDraw = False
+356.5115 	EXP 	unnamed TextStim: autoDraw = False
+356.5281 	EXP 	unnamed TextStim: autoDraw = True
+357.5447 	EXP 	unnamed TextStim: autoDraw = False
+358.5612 	EXP 	unnamed TextStim: autoDraw = True
+359.5777 	EXP 	unnamed TextStim: autoDraw = False
+359.5944 	EXP 	unnamed TextStim: autoDraw = True
+359.5944 	EXP 	unnamed TextStim: autoDraw = True
+360.5158 	DATA 	Keypress: n
+360.5276 	EXP 	unnamed TextStim: autoDraw = False
+360.5276 	EXP 	unnamed TextStim: autoDraw = False
+360.5442 	EXP 	unnamed TextStim: autoDraw = True
+361.5608 	EXP 	unnamed TextStim: autoDraw = False
+362.5773 	EXP 	unnamed TextStim: autoDraw = True
+363.5939 	EXP 	unnamed TextStim: autoDraw = False
+363.6105 	EXP 	unnamed TextStim: autoDraw = True
+363.6105 	EXP 	unnamed TextStim: autoDraw = True
+364.2439 	DATA 	Keypress: n
+364.2604 	EXP 	unnamed TextStim: autoDraw = False
+364.2604 	EXP 	unnamed TextStim: autoDraw = False
+364.2770 	EXP 	unnamed TextStim: autoDraw = True
+365.2937 	EXP 	unnamed TextStim: autoDraw = False
+366.3102 	EXP 	unnamed TextStim: autoDraw = True
+367.3267 	EXP 	unnamed TextStim: autoDraw = False
+367.3434 	EXP 	unnamed TextStim: autoDraw = True
+367.3434 	EXP 	unnamed TextStim: autoDraw = True
+367.9601 	DATA 	Keypress: m
+367.9766 	EXP 	unnamed TextStim: autoDraw = False
+367.9766 	EXP 	unnamed TextStim: autoDraw = False
+367.9932 	EXP 	unnamed TextStim: autoDraw = True
+369.0098 	EXP 	unnamed TextStim: autoDraw = False
+370.0264 	EXP 	unnamed TextStim: autoDraw = True
+371.0429 	EXP 	unnamed TextStim: autoDraw = False
+371.0595 	EXP 	unnamed TextStim: autoDraw = True
+371.0595 	EXP 	unnamed TextStim: autoDraw = True
+371.5429 	DATA 	Keypress: m
+371.5594 	EXP 	unnamed TextStim: autoDraw = False
+371.5594 	EXP 	unnamed TextStim: autoDraw = False
+371.5808 	EXP 	unnamed TextStim: autoDraw = True
+372.5927 	EXP 	unnamed TextStim: autoDraw = False
+373.6092 	EXP 	unnamed TextStim: autoDraw = True
+374.6257 	EXP 	unnamed TextStim: autoDraw = False
+374.6424 	EXP 	unnamed TextStim: autoDraw = True
+374.6424 	EXP 	unnamed TextStim: autoDraw = True
+375.5091 	DATA 	Keypress: x
+375.5256 	EXP 	unnamed TextStim: autoDraw = False
+375.5256 	EXP 	unnamed TextStim: autoDraw = False
+375.5422 	EXP 	unnamed TextStim: autoDraw = True
+376.5588 	EXP 	unnamed TextStim: autoDraw = False
+377.5753 	EXP 	unnamed TextStim: autoDraw = True
+378.5919 	EXP 	unnamed TextStim: autoDraw = False
+378.6085 	EXP 	unnamed TextStim: autoDraw = True
+378.6085 	EXP 	unnamed TextStim: autoDraw = True
+379.0803 	DATA 	Keypress: z
+379.0918 	EXP 	unnamed TextStim: autoDraw = False
+379.0918 	EXP 	unnamed TextStim: autoDraw = False
+379.1084 	EXP 	unnamed TextStim: autoDraw = True
+380.1250 	EXP 	unnamed TextStim: autoDraw = False
+381.1415 	EXP 	unnamed TextStim: autoDraw = True
+382.1580 	EXP 	unnamed TextStim: autoDraw = False
+382.1747 	EXP 	unnamed TextStim: autoDraw = True
+382.1747 	EXP 	unnamed TextStim: autoDraw = True
+382.6081 	DATA 	Keypress: z
+382.6246 	EXP 	unnamed TextStim: autoDraw = False
+382.6246 	EXP 	unnamed TextStim: autoDraw = False
+382.6461 	EXP 	unnamed TextStim: autoDraw = True
+383.6578 	EXP 	unnamed TextStim: autoDraw = False
+384.6744 	EXP 	unnamed TextStim: autoDraw = True
+385.6909 	EXP 	unnamed TextStim: autoDraw = False
+385.7075 	EXP 	unnamed TextStim: autoDraw = True
+385.7075 	EXP 	unnamed TextStim: autoDraw = True
+386.4575 	DATA 	Keypress: x
+386.4791 	EXP 	unnamed TextStim: autoDraw = False
+386.4791 	EXP 	unnamed TextStim: autoDraw = False
+386.4908 	EXP 	unnamed TextStim: autoDraw = True
+387.5073 	EXP 	unnamed TextStim: autoDraw = False
+388.5238 	EXP 	unnamed TextStim: autoDraw = True
+389.5404 	EXP 	unnamed TextStim: autoDraw = False
+389.5570 	EXP 	unnamed TextStim: autoDraw = True
+389.5570 	EXP 	unnamed TextStim: autoDraw = True
+390.2904 	DATA 	Keypress: n
+390.3069 	EXP 	unnamed TextStim: autoDraw = False
+390.3069 	EXP 	unnamed TextStim: autoDraw = False
+390.3285 	EXP 	unnamed TextStim: autoDraw = True
+391.3402 	EXP 	unnamed TextStim: autoDraw = False
+392.3567 	EXP 	unnamed TextStim: autoDraw = True
+393.3732 	EXP 	unnamed TextStim: autoDraw = False
+393.3898 	EXP 	unnamed TextStim: autoDraw = True
+393.3898 	EXP 	unnamed TextStim: autoDraw = True
+394.8615 	DATA 	Keypress: x
+394.8730 	EXP 	unnamed TextStim: autoDraw = False
+394.8730 	EXP 	unnamed TextStim: autoDraw = False
+394.8896 	EXP 	unnamed TextStim: autoDraw = True
+395.9062 	EXP 	unnamed TextStim: autoDraw = False
+396.9227 	EXP 	unnamed TextStim: autoDraw = True
+397.9393 	EXP 	unnamed TextStim: autoDraw = False
+397.9559 	EXP 	unnamed TextStim: autoDraw = True
+397.9559 	EXP 	unnamed TextStim: autoDraw = True
+399.4226 	DATA 	Keypress: n
+399.4390 	EXP 	unnamed TextStim: autoDraw = False
+399.4390 	EXP 	unnamed TextStim: autoDraw = False
+399.4557 	EXP 	unnamed TextStim: autoDraw = True
+400.4723 	EXP 	unnamed TextStim: autoDraw = False
+401.4888 	EXP 	unnamed TextStim: autoDraw = True
+402.5053 	EXP 	unnamed TextStim: autoDraw = False
+402.5219 	EXP 	unnamed TextStim: autoDraw = True
+402.5219 	EXP 	unnamed TextStim: autoDraw = True
+403.6936 	DATA 	Keypress: z
+403.7051 	EXP 	unnamed TextStim: autoDraw = False
+403.7051 	EXP 	unnamed TextStim: autoDraw = False
+403.7218 	EXP 	unnamed TextStim: autoDraw = True
+404.7384 	EXP 	unnamed TextStim: autoDraw = False
+405.7549 	EXP 	unnamed TextStim: autoDraw = True
+406.7714 	EXP 	unnamed TextStim: autoDraw = False
+406.7881 	EXP 	unnamed TextStim: autoDraw = True
+406.7881 	EXP 	unnamed TextStim: autoDraw = True
+407.5047 	DATA 	Keypress: m
+407.5212 	EXP 	unnamed TextStim: autoDraw = False
+407.5212 	EXP 	unnamed TextStim: autoDraw = False
+407.5428 	EXP 	unnamed TextStim: autoDraw = True
+408.5545 	EXP 	unnamed TextStim: autoDraw = False
+409.5710 	EXP 	unnamed TextStim: autoDraw = True
+410.5876 	EXP 	unnamed TextStim: autoDraw = False
+410.6042 	EXP 	unnamed TextStim: autoDraw = True
+410.6042 	EXP 	unnamed TextStim: autoDraw = True
+411.7209 	DATA 	Keypress: x
+411.7374 	EXP 	unnamed TextStim: autoDraw = False
+411.7374 	EXP 	unnamed TextStim: autoDraw = False
+411.7541 	EXP 	unnamed TextStim: autoDraw = True
+412.7706 	EXP 	unnamed TextStim: autoDraw = False
+413.7872 	EXP 	unnamed TextStim: autoDraw = True
+414.8037 	EXP 	unnamed TextStim: autoDraw = False
+414.8203 	EXP 	unnamed TextStim: autoDraw = True
+414.8203 	EXP 	unnamed TextStim: autoDraw = True
+415.8869 	DATA 	Keypress: z
+415.9035 	EXP 	unnamed TextStim: autoDraw = False
+415.9035 	EXP 	unnamed TextStim: autoDraw = False
+415.9202 	EXP 	unnamed TextStim: autoDraw = True
+416.9367 	EXP 	unnamed TextStim: autoDraw = False
+417.9532 	EXP 	unnamed TextStim: autoDraw = True
+418.9698 	EXP 	unnamed TextStim: autoDraw = False
+418.9864 	EXP 	unnamed TextStim: autoDraw = True
+418.9864 	EXP 	unnamed TextStim: autoDraw = True
+419.7364 	DATA 	Keypress: z
+419.7580 	EXP 	unnamed TextStim: autoDraw = False
+419.7580 	EXP 	unnamed TextStim: autoDraw = False
+419.7696 	EXP 	unnamed TextStim: autoDraw = True
+420.7862 	EXP 	unnamed TextStim: autoDraw = False
+421.8027 	EXP 	unnamed TextStim: autoDraw = True
+422.8193 	EXP 	unnamed TextStim: autoDraw = False
+422.8359 	EXP 	unnamed TextStim: autoDraw = True
+422.8359 	EXP 	unnamed TextStim: autoDraw = True
+423.7859 	DATA 	Keypress: n
+423.8075 	EXP 	unnamed TextStim: autoDraw = False
+423.8075 	EXP 	unnamed TextStim: autoDraw = False
+423.8191 	EXP 	unnamed TextStim: autoDraw = True
+424.8357 	EXP 	unnamed TextStim: autoDraw = False
+425.8522 	EXP 	unnamed TextStim: autoDraw = True
+426.8687 	EXP 	unnamed TextStim: autoDraw = False
+426.8853 	EXP 	unnamed TextStim: autoDraw = True
+426.8853 	EXP 	unnamed TextStim: autoDraw = True
+428.3568 	DATA 	Keypress: x
+428.3685 	EXP 	unnamed TextStim: autoDraw = False
+428.3685 	EXP 	unnamed TextStim: autoDraw = False
+428.3851 	EXP 	unnamed TextStim: autoDraw = True
+429.4017 	EXP 	unnamed TextStim: autoDraw = False
+430.4182 	EXP 	unnamed TextStim: autoDraw = True
+431.4348 	EXP 	unnamed TextStim: autoDraw = False
+431.4514 	EXP 	unnamed TextStim: autoDraw = True
+431.4514 	EXP 	unnamed TextStim: autoDraw = True
+432.0181 	DATA 	Keypress: x
+432.0347 	EXP 	unnamed TextStim: autoDraw = False
+432.0347 	EXP 	unnamed TextStim: autoDraw = False
+432.0513 	EXP 	unnamed TextStim: autoDraw = True
+433.0679 	EXP 	unnamed TextStim: autoDraw = False
+434.0844 	EXP 	unnamed TextStim: autoDraw = True
+435.1010 	EXP 	unnamed TextStim: autoDraw = False
+435.1176 	EXP 	unnamed TextStim: autoDraw = True
+435.1176 	EXP 	unnamed TextStim: autoDraw = True
+435.5510 	DATA 	Keypress: x
+435.5675 	EXP 	unnamed TextStim: autoDraw = False
+435.5675 	EXP 	unnamed TextStim: autoDraw = False
+435.5842 	EXP 	unnamed TextStim: autoDraw = True
+436.6008 	EXP 	unnamed TextStim: autoDraw = False
+437.7115 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=unicode(...), units='pix', win=Window(...), wrapWidth=1920)
+3302.4009 	DATA 	Keypress: space
+3302.4322 	EXP 	unnamed TextStim: autoDraw = True
+3303.4488 	EXP 	unnamed TextStim: autoDraw = False
+3303.4654 	EXP 	unnamed TextStim: autoDraw = True
+3303.4654 	EXP 	unnamed TextStim: autoDraw = True
+3304.1821 	DATA 	Keypress: m
+3304.1986 	EXP 	unnamed TextStim: autoDraw = False
+3304.1986 	EXP 	unnamed TextStim: autoDraw = False
+3316.1304 	EXP 	unnamed TextStim: autoDraw = True
+3317.1469 	EXP 	unnamed TextStim: autoDraw = False
+3317.1636 	EXP 	unnamed TextStim: autoDraw = True
+3317.1636 	EXP 	unnamed TextStim: autoDraw = True
+3318.1018 	DATA 	Keypress: m
+3318.1134 	EXP 	unnamed TextStim: autoDraw = False
+3318.1134 	EXP 	unnamed TextStim: autoDraw = False
+3330.7951 	EXP 	unnamed TextStim: autoDraw = True
+3331.8116 	EXP 	unnamed TextStim: autoDraw = False
+3331.8282 	EXP 	unnamed TextStim: autoDraw = True
+3331.8282 	EXP 	unnamed TextStim: autoDraw = True
+3332.7497 	DATA 	Keypress: x
+3332.7615 	EXP 	unnamed TextStim: autoDraw = False
+3332.7615 	EXP 	unnamed TextStim: autoDraw = False
+3345.4098 	EXP 	unnamed TextStim: autoDraw = True
+3346.4263 	EXP 	unnamed TextStim: autoDraw = False
+3346.4430 	EXP 	unnamed TextStim: autoDraw = True
+3346.4430 	EXP 	unnamed TextStim: autoDraw = True
+3347.0935 	DATA 	Keypress: z
+3347.1262 	EXP 	unnamed TextStim: autoDraw = False
+3347.1262 	EXP 	unnamed TextStim: autoDraw = False
+3358.5747 	EXP 	unnamed TextStim: autoDraw = True
+3359.5912 	EXP 	unnamed TextStim: autoDraw = False
+3359.6078 	EXP 	unnamed TextStim: autoDraw = True
+3359.6078 	EXP 	unnamed TextStim: autoDraw = True
+3360.1412 	DATA 	Keypress: z
+3360.1577 	EXP 	unnamed TextStim: autoDraw = False
+3360.1577 	EXP 	unnamed TextStim: autoDraw = False
+3372.7727 	EXP 	unnamed TextStim: autoDraw = True
+3373.7893 	EXP 	unnamed TextStim: autoDraw = False
+3373.8060 	EXP 	unnamed TextStim: autoDraw = True
+3373.8060 	EXP 	unnamed TextStim: autoDraw = True
+3374.3893 	DATA 	Keypress: x
+3374.4058 	EXP 	unnamed TextStim: autoDraw = False
+3374.4058 	EXP 	unnamed TextStim: autoDraw = False
+3385.5044 	EXP 	unnamed TextStim: autoDraw = True
+3386.5209 	EXP 	unnamed TextStim: autoDraw = False
+3386.5375 	EXP 	unnamed TextStim: autoDraw = True
+3386.5375 	EXP 	unnamed TextStim: autoDraw = True
+3387.0542 	DATA 	Keypress: m
+3387.0708 	EXP 	unnamed TextStim: autoDraw = False
+3387.0708 	EXP 	unnamed TextStim: autoDraw = False
+3399.7525 	EXP 	unnamed TextStim: autoDraw = True
+3400.7690 	EXP 	unnamed TextStim: autoDraw = False
+3400.7856 	EXP 	unnamed TextStim: autoDraw = True
+3400.7856 	EXP 	unnamed TextStim: autoDraw = True
+3401.4073 	DATA 	Keypress: m
+3401.4189 	EXP 	unnamed TextStim: autoDraw = False
+3401.4189 	EXP 	unnamed TextStim: autoDraw = False
+3414.3338 	EXP 	unnamed TextStim: autoDraw = True
+3415.3504 	EXP 	unnamed TextStim: autoDraw = False
+3415.3670 	EXP 	unnamed TextStim: autoDraw = True
+3415.3670 	EXP 	unnamed TextStim: autoDraw = True
+3416.0845 	DATA 	Keypress: z
+3416.1169 	EXP 	unnamed TextStim: autoDraw = False
+3416.1169 	EXP 	unnamed TextStim: autoDraw = False
+3428.8819 	EXP 	unnamed TextStim: autoDraw = True
+3429.8984 	EXP 	unnamed TextStim: autoDraw = False
+3429.9151 	EXP 	unnamed TextStim: autoDraw = True
+3429.9151 	EXP 	unnamed TextStim: autoDraw = True
+3430.6317 	DATA 	Keypress: z
+3430.6483 	EXP 	unnamed TextStim: autoDraw = False
+3430.6483 	EXP 	unnamed TextStim: autoDraw = False
+3442.4467 	EXP 	unnamed TextStim: autoDraw = True
+3443.4632 	EXP 	unnamed TextStim: autoDraw = False
+3443.4799 	EXP 	unnamed TextStim: autoDraw = True
+3443.4799 	EXP 	unnamed TextStim: autoDraw = True
+3444.4517 	DATA 	Keypress: n
+3444.4631 	EXP 	unnamed TextStim: autoDraw = False
+3444.4631 	EXP 	unnamed TextStim: autoDraw = False
+3455.7283 	EXP 	unnamed TextStim: autoDraw = True
+3456.7448 	EXP 	unnamed TextStim: autoDraw = False
+3456.7614 	EXP 	unnamed TextStim: autoDraw = True
+3456.7614 	EXP 	unnamed TextStim: autoDraw = True
+3457.2615 	DATA 	Keypress: m
+3457.2780 	EXP 	unnamed TextStim: autoDraw = False
+3457.2780 	EXP 	unnamed TextStim: autoDraw = False
+3469.0265 	EXP 	unnamed TextStim: autoDraw = True
+3470.0430 	EXP 	unnamed TextStim: autoDraw = False
+3470.0597 	EXP 	unnamed TextStim: autoDraw = True
+3470.0597 	EXP 	unnamed TextStim: autoDraw = True
+3470.7763 	DATA 	Keypress: z
+3470.7929 	EXP 	unnamed TextStim: autoDraw = False
+3470.7929 	EXP 	unnamed TextStim: autoDraw = False
+3483.1746 	EXP 	unnamed TextStim: autoDraw = True
+3484.1911 	EXP 	unnamed TextStim: autoDraw = False
+3484.2077 	EXP 	unnamed TextStim: autoDraw = True
+3484.2077 	EXP 	unnamed TextStim: autoDraw = True
+3484.7793 	DATA 	Keypress: m
+3484.7910 	EXP 	unnamed TextStim: autoDraw = False
+3484.7910 	EXP 	unnamed TextStim: autoDraw = False
+3496.3062 	EXP 	unnamed TextStim: autoDraw = True
+3497.3227 	EXP 	unnamed TextStim: autoDraw = False
+3497.3394 	EXP 	unnamed TextStim: autoDraw = True
+3497.3394 	EXP 	unnamed TextStim: autoDraw = True
+3498.3559 	DATA 	Keypress: x
+3498.3770 	EXP 	unnamed TextStim: autoDraw = False
+3498.3770 	EXP 	unnamed TextStim: autoDraw = False
+3509.7543 	EXP 	unnamed TextStim: autoDraw = True
+3510.7709 	EXP 	unnamed TextStim: autoDraw = False
+3510.7874 	EXP 	unnamed TextStim: autoDraw = True
+3510.7874 	EXP 	unnamed TextStim: autoDraw = True
+3511.3592 	DATA 	Keypress: m
+3511.3708 	EXP 	unnamed TextStim: autoDraw = False
+3511.3708 	EXP 	unnamed TextStim: autoDraw = False
+3522.6193 	EXP 	unnamed TextStim: autoDraw = True
+3523.6358 	EXP 	unnamed TextStim: autoDraw = False
+3523.6524 	EXP 	unnamed TextStim: autoDraw = True
+3523.6524 	EXP 	unnamed TextStim: autoDraw = True
+3524.5524 	DATA 	Keypress: z
+3524.5690 	EXP 	unnamed TextStim: autoDraw = False
+3524.5690 	EXP 	unnamed TextStim: autoDraw = False
+3536.0341 	EXP 	unnamed TextStim: autoDraw = True
+3537.0507 	EXP 	unnamed TextStim: autoDraw = False
+3537.0673 	EXP 	unnamed TextStim: autoDraw = True
+3537.0673 	EXP 	unnamed TextStim: autoDraw = True
+3537.9386 	DATA 	Keypress: m
+3537.9505 	EXP 	unnamed TextStim: autoDraw = False
+3537.9505 	EXP 	unnamed TextStim: autoDraw = False
+3550.3655 	EXP 	unnamed TextStim: autoDraw = True
+3551.3821 	EXP 	unnamed TextStim: autoDraw = False
+3551.3988 	EXP 	unnamed TextStim: autoDraw = True
+3551.3988 	EXP 	unnamed TextStim: autoDraw = True
+3551.9488 	DATA 	Keypress: m
+3551.9653 	EXP 	unnamed TextStim: autoDraw = False
+3551.9653 	EXP 	unnamed TextStim: autoDraw = False
+3563.9304 	EXP 	unnamed TextStim: autoDraw = True
+3564.9469 	EXP 	unnamed TextStim: autoDraw = False
+3564.9636 	EXP 	unnamed TextStim: autoDraw = True
+3564.9636 	EXP 	unnamed TextStim: autoDraw = True
+3565.6969 	DATA 	Keypress: z
+3565.7135 	EXP 	unnamed TextStim: autoDraw = False
+3565.7135 	EXP 	unnamed TextStim: autoDraw = False
+3577.0453 	EXP 	unnamed TextStim: autoDraw = True
+3578.0618 	EXP 	unnamed TextStim: autoDraw = False
+3578.0784 	EXP 	unnamed TextStim: autoDraw = True
+3578.0784 	EXP 	unnamed TextStim: autoDraw = True
+3578.9451 	DATA 	Keypress: x
+3578.9617 	EXP 	unnamed TextStim: autoDraw = False
+3578.9617 	EXP 	unnamed TextStim: autoDraw = False
+3590.9435 	EXP 	unnamed TextStim: autoDraw = True
+3591.9600 	EXP 	unnamed TextStim: autoDraw = False
+3591.9766 	EXP 	unnamed TextStim: autoDraw = True
+3591.9766 	EXP 	unnamed TextStim: autoDraw = True
+3592.8099 	DATA 	Keypress: x
+3592.8315 	EXP 	unnamed TextStim: autoDraw = False
+3592.8315 	EXP 	unnamed TextStim: autoDraw = False
+3603.9084 	EXP 	unnamed TextStim: autoDraw = True
+3604.9249 	EXP 	unnamed TextStim: autoDraw = False
+3604.9416 	EXP 	unnamed TextStim: autoDraw = True
+3604.9416 	EXP 	unnamed TextStim: autoDraw = True
+3605.8249 	DATA 	Keypress: n
+3605.8414 	EXP 	unnamed TextStim: autoDraw = False
+3605.8414 	EXP 	unnamed TextStim: autoDraw = False
+3618.2398 	EXP 	unnamed TextStim: autoDraw = True
+3619.2563 	EXP 	unnamed TextStim: autoDraw = False
+3619.2729 	EXP 	unnamed TextStim: autoDraw = True
+3619.2729 	EXP 	unnamed TextStim: autoDraw = True
+3619.9229 	DATA 	Keypress: m
+3619.9394 	EXP 	unnamed TextStim: autoDraw = False
+3619.9394 	EXP 	unnamed TextStim: autoDraw = False
+3631.4047 	EXP 	unnamed TextStim: autoDraw = True
+3632.4212 	EXP 	unnamed TextStim: autoDraw = False
+3632.4379 	EXP 	unnamed TextStim: autoDraw = True
+3632.4379 	EXP 	unnamed TextStim: autoDraw = True
+3632.9712 	DATA 	Keypress: m
+3632.9925 	EXP 	unnamed TextStim: autoDraw = False
+3632.9925 	EXP 	unnamed TextStim: autoDraw = False
+3645.0362 	EXP 	unnamed TextStim: autoDraw = True
+3646.0527 	EXP 	unnamed TextStim: autoDraw = False
+3646.0693 	EXP 	unnamed TextStim: autoDraw = True
+3646.0693 	EXP 	unnamed TextStim: autoDraw = True
+3647.4359 	DATA 	Keypress: n
+3647.4524 	EXP 	unnamed TextStim: autoDraw = False
+3647.4524 	EXP 	unnamed TextStim: autoDraw = False
+3658.6177 	EXP 	unnamed TextStim: autoDraw = True
+3659.6342 	EXP 	unnamed TextStim: autoDraw = False
+3659.6509 	EXP 	unnamed TextStim: autoDraw = True
+3659.6509 	EXP 	unnamed TextStim: autoDraw = True
+3660.8008 	DATA 	Keypress: x
+3660.8173 	EXP 	unnamed TextStim: autoDraw = False
+3660.8173 	EXP 	unnamed TextStim: autoDraw = False
+3672.9824 	EXP 	unnamed TextStim: autoDraw = True
+3673.9990 	EXP 	unnamed TextStim: autoDraw = False
+3674.0156 	EXP 	unnamed TextStim: autoDraw = True
+3674.0156 	EXP 	unnamed TextStim: autoDraw = True
+3674.7157 	DATA 	Keypress: m
+3674.7322 	EXP 	unnamed TextStim: autoDraw = False
+3674.7322 	EXP 	unnamed TextStim: autoDraw = False
+3686.4306 	EXP 	unnamed TextStim: autoDraw = True
+3687.4471 	EXP 	unnamed TextStim: autoDraw = False
+3687.4637 	EXP 	unnamed TextStim: autoDraw = True
+3687.4637 	EXP 	unnamed TextStim: autoDraw = True
+3687.9972 	DATA 	Keypress: m
+3688.0136 	EXP 	unnamed TextStim: autoDraw = False
+3688.0136 	EXP 	unnamed TextStim: autoDraw = False
+3699.5456 	EXP 	unnamed TextStim: autoDraw = True
+3700.5621 	EXP 	unnamed TextStim: autoDraw = False
+3700.5787 	EXP 	unnamed TextStim: autoDraw = True
+3700.5787 	EXP 	unnamed TextStim: autoDraw = True
+3701.1002 	DATA 	Keypress: m
+3701.1120 	EXP 	unnamed TextStim: autoDraw = False
+3701.1120 	EXP 	unnamed TextStim: autoDraw = False
+3713.9436 	EXP 	unnamed TextStim: autoDraw = True
+3714.9602 	EXP 	unnamed TextStim: autoDraw = False
+3714.9768 	EXP 	unnamed TextStim: autoDraw = True
+3714.9768 	EXP 	unnamed TextStim: autoDraw = True
+3715.8101 	DATA 	Keypress: z
+3715.8267 	EXP 	unnamed TextStim: autoDraw = False
+3715.8267 	EXP 	unnamed TextStim: autoDraw = False
+3727.8584 	EXP 	unnamed TextStim: autoDraw = True
+3728.8749 	EXP 	unnamed TextStim: autoDraw = False
+3728.8916 	EXP 	unnamed TextStim: autoDraw = True
+3728.8916 	EXP 	unnamed TextStim: autoDraw = True
+3729.8582 	DATA 	Keypress: n
+3729.8748 	EXP 	unnamed TextStim: autoDraw = False
+3729.8748 	EXP 	unnamed TextStim: autoDraw = False
+3741.8732 	EXP 	unnamed TextStim: autoDraw = True
+3742.8897 	EXP 	unnamed TextStim: autoDraw = False
+3742.9064 	EXP 	unnamed TextStim: autoDraw = True
+3742.9064 	EXP 	unnamed TextStim: autoDraw = True
+3743.9899 	DATA 	Keypress: x
+3744.0062 	EXP 	unnamed TextStim: autoDraw = False
+3744.0062 	EXP 	unnamed TextStim: autoDraw = False
+3755.4047 	EXP 	unnamed TextStim: autoDraw = True
+3756.4212 	EXP 	unnamed TextStim: autoDraw = False
+3756.4379 	EXP 	unnamed TextStim: autoDraw = True
+3756.4379 	EXP 	unnamed TextStim: autoDraw = True
+3757.3046 	DATA 	Keypress: x
+3757.3211 	EXP 	unnamed TextStim: autoDraw = False
+3757.3211 	EXP 	unnamed TextStim: autoDraw = False
+3768.8363 	EXP 	unnamed TextStim: autoDraw = True
+3769.8528 	EXP 	unnamed TextStim: autoDraw = False
+3769.8694 	EXP 	unnamed TextStim: autoDraw = True
+3769.8694 	EXP 	unnamed TextStim: autoDraw = True
+3770.5194 	DATA 	Keypress: m
+3770.5359 	EXP 	unnamed TextStim: autoDraw = False
+3770.5359 	EXP 	unnamed TextStim: autoDraw = False
+3781.9178 	EXP 	unnamed TextStim: autoDraw = True
+3782.9343 	EXP 	unnamed TextStim: autoDraw = False
+3782.9509 	EXP 	unnamed TextStim: autoDraw = True
+3782.9509 	EXP 	unnamed TextStim: autoDraw = True
+3783.9349 	DATA 	Keypress: n
+3783.9674 	EXP 	unnamed TextStim: autoDraw = False
+3783.9674 	EXP 	unnamed TextStim: autoDraw = False
+3796.8658 	EXP 	unnamed TextStim: autoDraw = True
+3797.8823 	EXP 	unnamed TextStim: autoDraw = False
+3797.8989 	EXP 	unnamed TextStim: autoDraw = True
+3797.8989 	EXP 	unnamed TextStim: autoDraw = True
+3798.6990 	DATA 	Keypress: x
+3798.7201 	EXP 	unnamed TextStim: autoDraw = False
+3798.7201 	EXP 	unnamed TextStim: autoDraw = False
+3811.1472 	EXP 	unnamed TextStim: autoDraw = True
+3812.1638 	EXP 	unnamed TextStim: autoDraw = False
+3812.1804 	EXP 	unnamed TextStim: autoDraw = True
+3812.1804 	EXP 	unnamed TextStim: autoDraw = True
+3812.6972 	DATA 	Keypress: m
+3812.7136 	EXP 	unnamed TextStim: autoDraw = False
+3812.7136 	EXP 	unnamed TextStim: autoDraw = False
+3824.8454 	EXP 	unnamed TextStim: autoDraw = True
+3825.8619 	EXP 	unnamed TextStim: autoDraw = False
+3825.8785 	EXP 	unnamed TextStim: autoDraw = True
+3825.8785 	EXP 	unnamed TextStim: autoDraw = True
+3826.7619 	DATA 	Keypress: n
+3826.7784 	EXP 	unnamed TextStim: autoDraw = False
+3826.7784 	EXP 	unnamed TextStim: autoDraw = False
+3838.5769 	EXP 	unnamed TextStim: autoDraw = True
+3839.5934 	EXP 	unnamed TextStim: autoDraw = False
+3839.6101 	EXP 	unnamed TextStim: autoDraw = True
+3839.6101 	EXP 	unnamed TextStim: autoDraw = True
+3840.1435 	DATA 	Keypress: m
+3840.1600 	EXP 	unnamed TextStim: autoDraw = False
+3840.1600 	EXP 	unnamed TextStim: autoDraw = False
+3852.6250 	EXP 	unnamed TextStim: autoDraw = True
+3853.6415 	EXP 	unnamed TextStim: autoDraw = False
+3853.6581 	EXP 	unnamed TextStim: autoDraw = True
+3853.6581 	EXP 	unnamed TextStim: autoDraw = True
+3854.9081 	DATA 	Keypress: n
+3854.9294 	EXP 	unnamed TextStim: autoDraw = False
+3854.9294 	EXP 	unnamed TextStim: autoDraw = False
+3866.0399 	EXP 	unnamed TextStim: autoDraw = True
+3867.0564 	EXP 	unnamed TextStim: autoDraw = False
+3867.0730 	EXP 	unnamed TextStim: autoDraw = True
+3867.0730 	EXP 	unnamed TextStim: autoDraw = True
+3867.6731 	DATA 	Keypress: m
+3867.6946 	EXP 	unnamed TextStim: autoDraw = False
+3867.6946 	EXP 	unnamed TextStim: autoDraw = False
+3878.6943 	DATA 	Keypress: m
+3880.5379 	EXP 	unnamed TextStim: autoDraw = True
+3881.5545 	EXP 	unnamed TextStim: autoDraw = False
+3881.5711 	EXP 	unnamed TextStim: autoDraw = True
+3881.5711 	EXP 	unnamed TextStim: autoDraw = True
+3882.2927 	DATA 	Keypress: m
+3882.3043 	EXP 	unnamed TextStim: autoDraw = False
+3882.3043 	EXP 	unnamed TextStim: autoDraw = False
+3893.8028 	EXP 	unnamed TextStim: autoDraw = True
+3894.8194 	EXP 	unnamed TextStim: autoDraw = False
+3894.8360 	EXP 	unnamed TextStim: autoDraw = True
+3894.8360 	EXP 	unnamed TextStim: autoDraw = True
+3895.3194 	DATA 	Keypress: m
+3895.3359 	EXP 	unnamed TextStim: autoDraw = False
+3895.3359 	EXP 	unnamed TextStim: autoDraw = False
+3907.9176 	EXP 	unnamed TextStim: autoDraw = True
+3908.9341 	EXP 	unnamed TextStim: autoDraw = False
+3908.9508 	EXP 	unnamed TextStim: autoDraw = True
+3908.9508 	EXP 	unnamed TextStim: autoDraw = True
+3909.8175 	DATA 	Keypress: x
+3909.8340 	EXP 	unnamed TextStim: autoDraw = False
+3909.8340 	EXP 	unnamed TextStim: autoDraw = False
+3921.3491 	EXP 	unnamed TextStim: autoDraw = True
+3922.3657 	EXP 	unnamed TextStim: autoDraw = False
+3922.3823 	EXP 	unnamed TextStim: autoDraw = True
+3922.3823 	EXP 	unnamed TextStim: autoDraw = True
+3922.8157 	DATA 	Keypress: x
+3922.8322 	EXP 	unnamed TextStim: autoDraw = False
+3922.8322 	EXP 	unnamed TextStim: autoDraw = False
+3934.7140 	EXP 	unnamed TextStim: autoDraw = True
+3935.7305 	EXP 	unnamed TextStim: autoDraw = False
+3935.7471 	EXP 	unnamed TextStim: autoDraw = True
+3935.7471 	EXP 	unnamed TextStim: autoDraw = True
+3936.2806 	DATA 	Keypress: x
+3936.2970 	EXP 	unnamed TextStim: autoDraw = False
+3936.2970 	EXP 	unnamed TextStim: autoDraw = False
+3947.7456 	EXP 	unnamed TextStim: autoDraw = True
+3948.7621 	EXP 	unnamed TextStim: autoDraw = False
+3948.7788 	EXP 	unnamed TextStim: autoDraw = True
+3948.7788 	EXP 	unnamed TextStim: autoDraw = True
+3950.0787 	DATA 	Keypress: n
+3950.0952 	EXP 	unnamed TextStim: autoDraw = False
+3950.0952 	EXP 	unnamed TextStim: autoDraw = False
+3961.5937 	EXP 	unnamed TextStim: autoDraw = True
+3962.6103 	EXP 	unnamed TextStim: autoDraw = False
+3962.6269 	EXP 	unnamed TextStim: autoDraw = True
+3962.6269 	EXP 	unnamed TextStim: autoDraw = True
+3963.5317 	DATA 	Keypress: x
+3963.5434 	EXP 	unnamed TextStim: autoDraw = False
+3963.5434 	EXP 	unnamed TextStim: autoDraw = False
+3975.8252 	EXP 	unnamed TextStim: autoDraw = True
+3976.8417 	EXP 	unnamed TextStim: autoDraw = False
+3976.8584 	EXP 	unnamed TextStim: autoDraw = True
+3976.8584 	EXP 	unnamed TextStim: autoDraw = True
+3977.6418 	DATA 	Keypress: x
+3977.6582 	EXP 	unnamed TextStim: autoDraw = False
+3977.6582 	EXP 	unnamed TextStim: autoDraw = False
+3990.4065 	EXP 	unnamed TextStim: autoDraw = True
+3991.4231 	EXP 	unnamed TextStim: autoDraw = False
+3991.4397 	EXP 	unnamed TextStim: autoDraw = True
+3991.4397 	EXP 	unnamed TextStim: autoDraw = True
+3992.0231 	DATA 	Keypress: x
+3992.0395 	EXP 	unnamed TextStim: autoDraw = False
+3992.0395 	EXP 	unnamed TextStim: autoDraw = False
+4004.1547 	EXP 	unnamed TextStim: autoDraw = True
+4005.1712 	EXP 	unnamed TextStim: autoDraw = False
+4005.1878 	EXP 	unnamed TextStim: autoDraw = True
+4005.1878 	EXP 	unnamed TextStim: autoDraw = True
+4005.8212 	DATA 	Keypress: m
+4005.8378 	EXP 	unnamed TextStim: autoDraw = False
+4005.8378 	EXP 	unnamed TextStim: autoDraw = False
+4017.2029 	EXP 	unnamed TextStim: autoDraw = True
+4018.2195 	EXP 	unnamed TextStim: autoDraw = False
+4018.2361 	EXP 	unnamed TextStim: autoDraw = True
+4018.2361 	EXP 	unnamed TextStim: autoDraw = True
+4019.2861 	DATA 	Keypress: n
+4019.3026 	EXP 	unnamed TextStim: autoDraw = False
+4019.3026 	EXP 	unnamed TextStim: autoDraw = False
+4030.9844 	EXP 	unnamed TextStim: autoDraw = True
+4032.0009 	EXP 	unnamed TextStim: autoDraw = False
+4032.0175 	EXP 	unnamed TextStim: autoDraw = True
+4032.0175 	EXP 	unnamed TextStim: autoDraw = True
+4032.8842 	DATA 	Keypress: x
+4032.9008 	EXP 	unnamed TextStim: autoDraw = False
+4032.9008 	EXP 	unnamed TextStim: autoDraw = False
+4045.5825 	EXP 	unnamed TextStim: autoDraw = True
+4046.5990 	EXP 	unnamed TextStim: autoDraw = False
+4046.6156 	EXP 	unnamed TextStim: autoDraw = True
+4046.6156 	EXP 	unnamed TextStim: autoDraw = True
+4047.3157 	DATA 	Keypress: x
+4047.3322 	EXP 	unnamed TextStim: autoDraw = False
+4047.3322 	EXP 	unnamed TextStim: autoDraw = False
+4060.1805 	EXP 	unnamed TextStim: autoDraw = True
+4061.1970 	EXP 	unnamed TextStim: autoDraw = False
+4061.2136 	EXP 	unnamed TextStim: autoDraw = True
+4061.2136 	EXP 	unnamed TextStim: autoDraw = True
+4062.0637 	DATA 	Keypress: x
+4062.0849 	EXP 	unnamed TextStim: autoDraw = False
+4062.0849 	EXP 	unnamed TextStim: autoDraw = False
+4074.6286 	EXP 	unnamed TextStim: autoDraw = True
+4075.6451 	EXP 	unnamed TextStim: autoDraw = False
+4075.6617 	EXP 	unnamed TextStim: autoDraw = True
+4075.6617 	EXP 	unnamed TextStim: autoDraw = True
+4076.9117 	DATA 	Keypress: z
+4076.9282 	EXP 	unnamed TextStim: autoDraw = False
+4076.9282 	EXP 	unnamed TextStim: autoDraw = False
+4088.9100 	EXP 	unnamed TextStim: autoDraw = True
+4089.9265 	EXP 	unnamed TextStim: autoDraw = False
+4089.9431 	EXP 	unnamed TextStim: autoDraw = True
+4089.9431 	EXP 	unnamed TextStim: autoDraw = True
+4090.4932 	DATA 	Keypress: m
+4090.5145 	EXP 	unnamed TextStim: autoDraw = False
+4090.5145 	EXP 	unnamed TextStim: autoDraw = False
+4102.3749 	EXP 	unnamed TextStim: autoDraw = True
+4103.3914 	EXP 	unnamed TextStim: autoDraw = False
+4103.4080 	EXP 	unnamed TextStim: autoDraw = True
+4103.4080 	EXP 	unnamed TextStim: autoDraw = True
+4104.1797 	DATA 	Keypress: z
+4104.1912 	EXP 	unnamed TextStim: autoDraw = False
+4104.1912 	EXP 	unnamed TextStim: autoDraw = False
+4115.9730 	EXP 	unnamed TextStim: autoDraw = True
+4116.9895 	EXP 	unnamed TextStim: autoDraw = False
+4117.0062 	EXP 	unnamed TextStim: autoDraw = True
+4117.0062 	EXP 	unnamed TextStim: autoDraw = True
+4117.8062 	DATA 	Keypress: n
+4117.8227 	EXP 	unnamed TextStim: autoDraw = False
+4117.8227 	EXP 	unnamed TextStim: autoDraw = False
+4129.0712 	EXP 	unnamed TextStim: autoDraw = True
+4130.0878 	EXP 	unnamed TextStim: autoDraw = False
+4130.1044 	EXP 	unnamed TextStim: autoDraw = True
+4130.1044 	EXP 	unnamed TextStim: autoDraw = True
+4131.0378 	DATA 	Keypress: n
+4131.0543 	EXP 	unnamed TextStim: autoDraw = False
+4131.0543 	EXP 	unnamed TextStim: autoDraw = False
+4143.5860 	EXP 	unnamed TextStim: autoDraw = True
+4144.6025 	EXP 	unnamed TextStim: autoDraw = False
+4144.6191 	EXP 	unnamed TextStim: autoDraw = True
+4144.6191 	EXP 	unnamed TextStim: autoDraw = True
+4146.0190 	DATA 	Keypress: n
+4146.0404 	EXP 	unnamed TextStim: autoDraw = False
+4146.0404 	EXP 	unnamed TextStim: autoDraw = False
+4158.6006 	EXP 	unnamed TextStim: autoDraw = True
+4159.6171 	EXP 	unnamed TextStim: autoDraw = False
+4159.6338 	EXP 	unnamed TextStim: autoDraw = True
+4159.6338 	EXP 	unnamed TextStim: autoDraw = True
+4160.7504 	DATA 	Keypress: z
+4160.7670 	EXP 	unnamed TextStim: autoDraw = False
+4160.7670 	EXP 	unnamed TextStim: autoDraw = False
+4173.4653 	EXP 	unnamed TextStim: autoDraw = True
+4174.4818 	EXP 	unnamed TextStim: autoDraw = False
+4174.4984 	EXP 	unnamed TextStim: autoDraw = True
+4174.4984 	EXP 	unnamed TextStim: autoDraw = True
+4175.0701 	DATA 	Keypress: m
+4175.0817 	EXP 	unnamed TextStim: autoDraw = False
+4175.0817 	EXP 	unnamed TextStim: autoDraw = False
+4187.7634 	EXP 	unnamed TextStim: autoDraw = True
+4188.7799 	EXP 	unnamed TextStim: autoDraw = False
+4188.7965 	EXP 	unnamed TextStim: autoDraw = True
+4188.7965 	EXP 	unnamed TextStim: autoDraw = True
+4189.5681 	DATA 	Keypress: z
+4189.5798 	EXP 	unnamed TextStim: autoDraw = False
+4189.5798 	EXP 	unnamed TextStim: autoDraw = False
+4201.7782 	EXP 	unnamed TextStim: autoDraw = True
+4202.7947 	EXP 	unnamed TextStim: autoDraw = False
+4202.8113 	EXP 	unnamed TextStim: autoDraw = True
+4202.8113 	EXP 	unnamed TextStim: autoDraw = True
+4203.8947 	DATA 	Keypress: n
+4203.9111 	EXP 	unnamed TextStim: autoDraw = False
+4203.9111 	EXP 	unnamed TextStim: autoDraw = False
+4216.4595 	EXP 	unnamed TextStim: autoDraw = True
+4217.4760 	EXP 	unnamed TextStim: autoDraw = False
+4217.4927 	EXP 	unnamed TextStim: autoDraw = True
+4217.4927 	EXP 	unnamed TextStim: autoDraw = True
+4218.6426 	DATA 	Keypress: n
+4218.6638 	EXP 	unnamed TextStim: autoDraw = False
+4218.6638 	EXP 	unnamed TextStim: autoDraw = False
+4231.6741 	EXP 	unnamed TextStim: autoDraw = True
+4232.6907 	EXP 	unnamed TextStim: autoDraw = False
+4232.7073 	EXP 	unnamed TextStim: autoDraw = True
+4232.7073 	EXP 	unnamed TextStim: autoDraw = True
+4233.3073 	DATA 	Keypress: z
+4233.3289 	EXP 	unnamed TextStim: autoDraw = False
+4233.3289 	EXP 	unnamed TextStim: autoDraw = False
+4244.3724 	EXP 	unnamed TextStim: autoDraw = True
+4245.3890 	EXP 	unnamed TextStim: autoDraw = False
+4245.4056 	EXP 	unnamed TextStim: autoDraw = True
+4245.4056 	EXP 	unnamed TextStim: autoDraw = True
+4246.0723 	DATA 	Keypress: x
+4246.0888 	EXP 	unnamed TextStim: autoDraw = False
+4246.0888 	EXP 	unnamed TextStim: autoDraw = False
+4258.7538 	EXP 	unnamed TextStim: autoDraw = True
+4259.7704 	EXP 	unnamed TextStim: autoDraw = False
+4259.7870 	EXP 	unnamed TextStim: autoDraw = True
+4259.7870 	EXP 	unnamed TextStim: autoDraw = True
+4260.5871 	DATA 	Keypress: n
+4260.6036 	EXP 	unnamed TextStim: autoDraw = False
+4260.6036 	EXP 	unnamed TextStim: autoDraw = False
+4272.1687 	EXP 	unnamed TextStim: autoDraw = True
+4273.1852 	EXP 	unnamed TextStim: autoDraw = False
+4273.2019 	EXP 	unnamed TextStim: autoDraw = True
+4273.2019 	EXP 	unnamed TextStim: autoDraw = True
+4273.8194 	DATA 	Keypress: z
+4273.8518 	EXP 	unnamed TextStim: autoDraw = False
+4273.8518 	EXP 	unnamed TextStim: autoDraw = False
+4286.2168 	EXP 	unnamed TextStim: autoDraw = True
+4287.2333 	EXP 	unnamed TextStim: autoDraw = False
+4287.2500 	EXP 	unnamed TextStim: autoDraw = True
+4287.2500 	EXP 	unnamed TextStim: autoDraw = True
+4288.3499 	DATA 	Keypress: x
+4288.3712 	EXP 	unnamed TextStim: autoDraw = False
+4288.3712 	EXP 	unnamed TextStim: autoDraw = False
+4301.2315 	EXP 	unnamed TextStim: autoDraw = True
+4302.2480 	EXP 	unnamed TextStim: autoDraw = False
+4302.2646 	EXP 	unnamed TextStim: autoDraw = True
+4302.2646 	EXP 	unnamed TextStim: autoDraw = True
+4303.5645 	DATA 	Keypress: z
+4303.5811 	EXP 	unnamed TextStim: autoDraw = False
+4303.5811 	EXP 	unnamed TextStim: autoDraw = False
+4314.6463 	EXP 	unnamed TextStim: autoDraw = True
+4315.6629 	EXP 	unnamed TextStim: autoDraw = False
+4315.6795 	EXP 	unnamed TextStim: autoDraw = True
+4315.6795 	EXP 	unnamed TextStim: autoDraw = True
+4316.0463 	DATA 	Keypress: z
+4316.0628 	EXP 	unnamed TextStim: autoDraw = False
+4316.0628 	EXP 	unnamed TextStim: autoDraw = False
+4328.4778 	EXP 	unnamed TextStim: autoDraw = True
+4329.4943 	EXP 	unnamed TextStim: autoDraw = False
+4329.5110 	EXP 	unnamed TextStim: autoDraw = True
+4329.5110 	EXP 	unnamed TextStim: autoDraw = True
+4330.3276 	DATA 	Keypress: x
+4330.3442 	EXP 	unnamed TextStim: autoDraw = False
+4330.3442 	EXP 	unnamed TextStim: autoDraw = False
+4341.7760 	EXP 	unnamed TextStim: autoDraw = True
+4342.7925 	EXP 	unnamed TextStim: autoDraw = False
+4342.8092 	EXP 	unnamed TextStim: autoDraw = True
+4342.8092 	EXP 	unnamed TextStim: autoDraw = True
+4343.3093 	DATA 	Keypress: m
+4343.3258 	EXP 	unnamed TextStim: autoDraw = False
+4343.3258 	EXP 	unnamed TextStim: autoDraw = False
+4356.0408 	EXP 	unnamed TextStim: autoDraw = True
+4357.0573 	EXP 	unnamed TextStim: autoDraw = False
+4357.0739 	EXP 	unnamed TextStim: autoDraw = True
+4357.0739 	EXP 	unnamed TextStim: autoDraw = True
+4357.5906 	DATA 	Keypress: x
+4357.6072 	EXP 	unnamed TextStim: autoDraw = False
+4357.6072 	EXP 	unnamed TextStim: autoDraw = False
+4369.1723 	EXP 	unnamed TextStim: autoDraw = True
+4370.1889 	EXP 	unnamed TextStim: autoDraw = False
+4370.2055 	EXP 	unnamed TextStim: autoDraw = True
+4370.2055 	EXP 	unnamed TextStim: autoDraw = True
+4371.3055 	DATA 	Keypress: n
+4371.3220 	EXP 	unnamed TextStim: autoDraw = False
+4371.3220 	EXP 	unnamed TextStim: autoDraw = False
+4383.6371 	EXP 	unnamed TextStim: autoDraw = True
+4384.6536 	EXP 	unnamed TextStim: autoDraw = False
+4384.6702 	EXP 	unnamed TextStim: autoDraw = True
+4384.6702 	EXP 	unnamed TextStim: autoDraw = True
+4385.7203 	DATA 	Keypress: x
+4385.7368 	EXP 	unnamed TextStim: autoDraw = False
+4385.7368 	EXP 	unnamed TextStim: autoDraw = False
+4397.7518 	EXP 	unnamed TextStim: autoDraw = True
+4398.7684 	EXP 	unnamed TextStim: autoDraw = False
+4398.7849 	EXP 	unnamed TextStim: autoDraw = True
+4398.7849 	EXP 	unnamed TextStim: autoDraw = True
+4399.5849 	DATA 	Keypress: x
+4399.6015 	EXP 	unnamed TextStim: autoDraw = False
+4399.6015 	EXP 	unnamed TextStim: autoDraw = False
+4411.2667 	EXP 	unnamed TextStim: autoDraw = True
+4412.2832 	EXP 	unnamed TextStim: autoDraw = False
+4412.2998 	EXP 	unnamed TextStim: autoDraw = True
+4412.2998 	EXP 	unnamed TextStim: autoDraw = True
+4412.8165 	DATA 	Keypress: m
+4412.8381 	EXP 	unnamed TextStim: autoDraw = False
+4412.8381 	EXP 	unnamed TextStim: autoDraw = False
+4425.6814 	EXP 	unnamed TextStim: autoDraw = True
+4426.6979 	EXP 	unnamed TextStim: autoDraw = False
+4426.7145 	EXP 	unnamed TextStim: autoDraw = True
+4426.7145 	EXP 	unnamed TextStim: autoDraw = True
+4427.9861 	DATA 	Keypress: n
+4427.9977 	EXP 	unnamed TextStim: autoDraw = False
+4427.9977 	EXP 	unnamed TextStim: autoDraw = False
+4439.6795 	EXP 	unnamed TextStim: autoDraw = True
+4440.6961 	EXP 	unnamed TextStim: autoDraw = False
+4440.7127 	EXP 	unnamed TextStim: autoDraw = True
+4440.7127 	EXP 	unnamed TextStim: autoDraw = True
+4441.2461 	DATA 	Keypress: z
+4441.2626 	EXP 	unnamed TextStim: autoDraw = False
+4441.2626 	EXP 	unnamed TextStim: autoDraw = False
+4452.8444 	EXP 	unnamed TextStim: autoDraw = True
+4453.8610 	EXP 	unnamed TextStim: autoDraw = False
+4453.8776 	EXP 	unnamed TextStim: autoDraw = True
+4453.8776 	EXP 	unnamed TextStim: autoDraw = True
+4454.3943 	DATA 	Keypress: m
+4454.4108 	EXP 	unnamed TextStim: autoDraw = False
+4454.4108 	EXP 	unnamed TextStim: autoDraw = False
+4466.8259 	EXP 	unnamed TextStim: autoDraw = True
+4467.8424 	EXP 	unnamed TextStim: autoDraw = False
+4467.8590 	EXP 	unnamed TextStim: autoDraw = True
+4467.8590 	EXP 	unnamed TextStim: autoDraw = True
+4468.6090 	DATA 	Keypress: z
+4468.6304 	EXP 	unnamed TextStim: autoDraw = False
+4468.6304 	EXP 	unnamed TextStim: autoDraw = False
+4480.6740 	EXP 	unnamed TextStim: autoDraw = True
+4481.6906 	EXP 	unnamed TextStim: autoDraw = False
+4481.7071 	EXP 	unnamed TextStim: autoDraw = True
+4481.7071 	EXP 	unnamed TextStim: autoDraw = True
+4482.2238 	DATA 	Keypress: z
+4482.2404 	EXP 	unnamed TextStim: autoDraw = False
+4482.2404 	EXP 	unnamed TextStim: autoDraw = False
+4495.2054 	EXP 	unnamed TextStim: autoDraw = True
+4496.2219 	EXP 	unnamed TextStim: autoDraw = False
+4496.2386 	EXP 	unnamed TextStim: autoDraw = True
+4496.2386 	EXP 	unnamed TextStim: autoDraw = True
+4497.2053 	DATA 	Keypress: n
+4497.2217 	EXP 	unnamed TextStim: autoDraw = False
+4497.2217 	EXP 	unnamed TextStim: autoDraw = False
+4510.0034 	EXP 	unnamed TextStim: autoDraw = True
+4511.0199 	EXP 	unnamed TextStim: autoDraw = False
+4511.0366 	EXP 	unnamed TextStim: autoDraw = True
+4511.0366 	EXP 	unnamed TextStim: autoDraw = True
+4511.5200 	DATA 	Keypress: m
+4511.5365 	EXP 	unnamed TextStim: autoDraw = False
+4511.5365 	EXP 	unnamed TextStim: autoDraw = False
+4523.7349 	EXP 	unnamed TextStim: autoDraw = True
+4524.7514 	EXP 	unnamed TextStim: autoDraw = False
+4524.7681 	EXP 	unnamed TextStim: autoDraw = True
+4524.7681 	EXP 	unnamed TextStim: autoDraw = True
+4525.1016 	DATA 	Keypress: z
+4525.1180 	EXP 	unnamed TextStim: autoDraw = False
+4525.1180 	EXP 	unnamed TextStim: autoDraw = False
+4537.5331 	EXP 	unnamed TextStim: autoDraw = True
+4538.5496 	EXP 	unnamed TextStim: autoDraw = False
+4538.5662 	EXP 	unnamed TextStim: autoDraw = True
+4538.5662 	EXP 	unnamed TextStim: autoDraw = True
+4539.3829 	DATA 	Keypress: x
+4539.3994 	EXP 	unnamed TextStim: autoDraw = False
+4539.3994 	EXP 	unnamed TextStim: autoDraw = False
+4550.6813 	EXP 	unnamed TextStim: autoDraw = True
+4551.6978 	EXP 	unnamed TextStim: autoDraw = False
+4551.7145 	EXP 	unnamed TextStim: autoDraw = True
+4551.7145 	EXP 	unnamed TextStim: autoDraw = True
+4552.5811 	DATA 	Keypress: n
+4552.5977 	EXP 	unnamed TextStim: autoDraw = False
+4552.5977 	EXP 	unnamed TextStim: autoDraw = False
+4564.9960 	EXP 	unnamed TextStim: autoDraw = True
+4566.0126 	EXP 	unnamed TextStim: autoDraw = False
+4566.0292 	EXP 	unnamed TextStim: autoDraw = True
+4566.0292 	EXP 	unnamed TextStim: autoDraw = True
+4566.5626 	DATA 	Keypress: m
+4566.5791 	EXP 	unnamed TextStim: autoDraw = False
+4566.5791 	EXP 	unnamed TextStim: autoDraw = False
+4578.2109 	EXP 	unnamed TextStim: autoDraw = True
+4579.2275 	EXP 	unnamed TextStim: autoDraw = False
+4579.2441 	EXP 	unnamed TextStim: autoDraw = True
+4579.2441 	EXP 	unnamed TextStim: autoDraw = True
+4579.9608 	DATA 	Keypress: x
+4579.9773 	EXP 	unnamed TextStim: autoDraw = False
+4579.9773 	EXP 	unnamed TextStim: autoDraw = False
+4591.8091 	EXP 	unnamed TextStim: autoDraw = True
+4592.8257 	EXP 	unnamed TextStim: autoDraw = False
+4592.8423 	EXP 	unnamed TextStim: autoDraw = True
+4592.8423 	EXP 	unnamed TextStim: autoDraw = True
+4593.5756 	DATA 	Keypress: z
+4593.5922 	EXP 	unnamed TextStim: autoDraw = False
+4593.5922 	EXP 	unnamed TextStim: autoDraw = False
+4604.8073 	EXP 	unnamed TextStim: autoDraw = True
+4605.8239 	EXP 	unnamed TextStim: autoDraw = False
+4605.8405 	EXP 	unnamed TextStim: autoDraw = True
+4605.8405 	EXP 	unnamed TextStim: autoDraw = True
+4606.4622 	DATA 	Keypress: m
+4606.4737 	EXP 	unnamed TextStim: autoDraw = False
+4606.4737 	EXP 	unnamed TextStim: autoDraw = False
+4619.4387 	EXP 	unnamed TextStim: autoDraw = True
+4620.4552 	EXP 	unnamed TextStim: autoDraw = False
+4620.4719 	EXP 	unnamed TextStim: autoDraw = True
+4620.4719 	EXP 	unnamed TextStim: autoDraw = True
+4621.3885 	DATA 	Keypress: n
+4621.4051 	EXP 	unnamed TextStim: autoDraw = False
+4621.4051 	EXP 	unnamed TextStim: autoDraw = False
+4633.6201 	EXP 	unnamed TextStim: autoDraw = True
+4634.6367 	EXP 	unnamed TextStim: autoDraw = False
+4634.6533 	EXP 	unnamed TextStim: autoDraw = True
+4634.6533 	EXP 	unnamed TextStim: autoDraw = True
+4635.1534 	DATA 	Keypress: m
+4635.1698 	EXP 	unnamed TextStim: autoDraw = False
+4635.1698 	EXP 	unnamed TextStim: autoDraw = False
+4647.3183 	EXP 	unnamed TextStim: autoDraw = True
+4648.3348 	EXP 	unnamed TextStim: autoDraw = False
+4648.3515 	EXP 	unnamed TextStim: autoDraw = True
+4648.3515 	EXP 	unnamed TextStim: autoDraw = True
+4649.0848 	DATA 	Keypress: z
+4649.1014 	EXP 	unnamed TextStim: autoDraw = False
+4649.1014 	EXP 	unnamed TextStim: autoDraw = False
+4660.8831 	EXP 	unnamed TextStim: autoDraw = True
+4661.8997 	EXP 	unnamed TextStim: autoDraw = False
+4661.9163 	EXP 	unnamed TextStim: autoDraw = True
+4661.9163 	EXP 	unnamed TextStim: autoDraw = True
+4663.0996 	DATA 	Keypress: x
+4663.1205 	EXP 	unnamed TextStim: autoDraw = False
+4663.1205 	EXP 	unnamed TextStim: autoDraw = False
+4675.4978 	EXP 	unnamed TextStim: autoDraw = True
+4676.5144 	EXP 	unnamed TextStim: autoDraw = False
+4676.5309 	EXP 	unnamed TextStim: autoDraw = True
+4676.5309 	EXP 	unnamed TextStim: autoDraw = True
+4677.3310 	DATA 	Keypress: n
+4677.3475 	EXP 	unnamed TextStim: autoDraw = False
+4677.3475 	EXP 	unnamed TextStim: autoDraw = False
+4690.1459 	EXP 	unnamed TextStim: autoDraw = True
+4691.1624 	EXP 	unnamed TextStim: autoDraw = False
+4691.1790 	EXP 	unnamed TextStim: autoDraw = True
+4691.1790 	EXP 	unnamed TextStim: autoDraw = True
+4692.0624 	DATA 	Keypress: z
+4692.0789 	EXP 	unnamed TextStim: autoDraw = False
+4692.0789 	EXP 	unnamed TextStim: autoDraw = False
+4703.4608 	EXP 	unnamed TextStim: autoDraw = True
+4704.4773 	EXP 	unnamed TextStim: autoDraw = False
+4704.4939 	EXP 	unnamed TextStim: autoDraw = True
+4704.4939 	EXP 	unnamed TextStim: autoDraw = True
+4704.9941 	DATA 	Keypress: z
+4705.0105 	EXP 	unnamed TextStim: autoDraw = False
+4705.0105 	EXP 	unnamed TextStim: autoDraw = False
+4716.0757 	EXP 	unnamed TextStim: autoDraw = True
+4717.0922 	EXP 	unnamed TextStim: autoDraw = False
+4717.1088 	EXP 	unnamed TextStim: autoDraw = True
+4717.1088 	EXP 	unnamed TextStim: autoDraw = True
+4718.3254 	DATA 	Keypress: x
+4718.3421 	EXP 	unnamed TextStim: autoDraw = False
+4718.3421 	EXP 	unnamed TextStim: autoDraw = False
+4730.3904 	EXP 	unnamed TextStim: autoDraw = True
+4731.4070 	EXP 	unnamed TextStim: autoDraw = False
+4731.4235 	EXP 	unnamed TextStim: autoDraw = True
+4731.4235 	EXP 	unnamed TextStim: autoDraw = True
+4731.9237 	DATA 	Keypress: m
+4731.9448 	EXP 	unnamed TextStim: autoDraw = False
+4731.9448 	EXP 	unnamed TextStim: autoDraw = False
+4743.4387 	EXP 	unnamed TextStim: autoDraw = True
+4744.4552 	EXP 	unnamed TextStim: autoDraw = False
+4744.4719 	EXP 	unnamed TextStim: autoDraw = True
+4744.4719 	EXP 	unnamed TextStim: autoDraw = True
+4745.4719 	DATA 	Keypress: x
+4745.4884 	EXP 	unnamed TextStim: autoDraw = False
+4745.4884 	EXP 	unnamed TextStim: autoDraw = False
+4756.5036 	EXP 	unnamed TextStim: autoDraw = True
+4757.5201 	EXP 	unnamed TextStim: autoDraw = False
+4757.5368 	EXP 	unnamed TextStim: autoDraw = True
+4757.5368 	EXP 	unnamed TextStim: autoDraw = True
+4758.1701 	DATA 	Keypress: x
+4758.1867 	EXP 	unnamed TextStim: autoDraw = False
+4758.1867 	EXP 	unnamed TextStim: autoDraw = False
+4769.6685 	EXP 	unnamed TextStim: autoDraw = True
+4770.6850 	EXP 	unnamed TextStim: autoDraw = False
+4770.7016 	EXP 	unnamed TextStim: autoDraw = True
+4770.7016 	EXP 	unnamed TextStim: autoDraw = True
+4771.4183 	DATA 	Keypress: z
+4771.4349 	EXP 	unnamed TextStim: autoDraw = False
+4771.4349 	EXP 	unnamed TextStim: autoDraw = False
+4784.2499 	EXP 	unnamed TextStim: autoDraw = True
+4785.2664 	EXP 	unnamed TextStim: autoDraw = False
+4785.2830 	EXP 	unnamed TextStim: autoDraw = True
+4785.2830 	EXP 	unnamed TextStim: autoDraw = True
+4786.0497 	DATA 	Keypress: x
+4786.0663 	EXP 	unnamed TextStim: autoDraw = False
+4786.0663 	EXP 	unnamed TextStim: autoDraw = False
+4798.3813 	EXP 	unnamed TextStim: autoDraw = True
+4799.3978 	EXP 	unnamed TextStim: autoDraw = False
+4799.4145 	EXP 	unnamed TextStim: autoDraw = True
+4799.4145 	EXP 	unnamed TextStim: autoDraw = True
+4799.7812 	DATA 	Keypress: m
+4799.7977 	EXP 	unnamed TextStim: autoDraw = False
+4799.7977 	EXP 	unnamed TextStim: autoDraw = False
+4812.6794 	EXP 	unnamed TextStim: autoDraw = True
+4813.6959 	EXP 	unnamed TextStim: autoDraw = False
+4813.7125 	EXP 	unnamed TextStim: autoDraw = True
+4813.7125 	EXP 	unnamed TextStim: autoDraw = True
+4814.3799 	DATA 	Keypress: z
+4814.4124 	EXP 	unnamed TextStim: autoDraw = False
+4814.4124 	EXP 	unnamed TextStim: autoDraw = False
+4826.6608 	EXP 	unnamed TextStim: autoDraw = True
+4827.6774 	EXP 	unnamed TextStim: autoDraw = False
+4827.6940 	EXP 	unnamed TextStim: autoDraw = True
+4827.6940 	EXP 	unnamed TextStim: autoDraw = True
+4828.5821 	DATA 	Keypress: n
+4828.5938 	EXP 	unnamed TextStim: autoDraw = False
+4828.5938 	EXP 	unnamed TextStim: autoDraw = False
+4841.5755 	EXP 	unnamed TextStim: autoDraw = True
+4842.5920 	EXP 	unnamed TextStim: autoDraw = False
+4842.6086 	EXP 	unnamed TextStim: autoDraw = True
+4842.6086 	EXP 	unnamed TextStim: autoDraw = True
+4843.4420 	DATA 	Keypress: x
+4843.4585 	EXP 	unnamed TextStim: autoDraw = False
+4843.4585 	EXP 	unnamed TextStim: autoDraw = False
+4856.2901 	EXP 	unnamed TextStim: autoDraw = True
+4857.3067 	EXP 	unnamed TextStim: autoDraw = False
+4857.3233 	EXP 	unnamed TextStim: autoDraw = True
+4857.3233 	EXP 	unnamed TextStim: autoDraw = True
+4857.8234 	DATA 	Keypress: z
+4857.8399 	EXP 	unnamed TextStim: autoDraw = False
+4857.8399 	EXP 	unnamed TextStim: autoDraw = False
+4869.8883 	EXP 	unnamed TextStim: autoDraw = True
+4870.9049 	EXP 	unnamed TextStim: autoDraw = False
+4870.9215 	EXP 	unnamed TextStim: autoDraw = True
+4870.9215 	EXP 	unnamed TextStim: autoDraw = True
+4871.7715 	DATA 	Keypress: n
+4871.7880 	EXP 	unnamed TextStim: autoDraw = False
+4871.7880 	EXP 	unnamed TextStim: autoDraw = False
+4883.4865 	EXP 	unnamed TextStim: autoDraw = True
+4884.5030 	EXP 	unnamed TextStim: autoDraw = False
+4884.5197 	EXP 	unnamed TextStim: autoDraw = True
+4884.5197 	EXP 	unnamed TextStim: autoDraw = True
+4885.3697 	DATA 	Keypress: z
+4885.3861 	EXP 	unnamed TextStim: autoDraw = False
+4885.3861 	EXP 	unnamed TextStim: autoDraw = False
+4898.0179 	EXP 	unnamed TextStim: autoDraw = True
+4899.0344 	EXP 	unnamed TextStim: autoDraw = False
+4899.0510 	EXP 	unnamed TextStim: autoDraw = True
+4899.0510 	EXP 	unnamed TextStim: autoDraw = True
+4899.8177 	DATA 	Keypress: n
+4899.8343 	EXP 	unnamed TextStim: autoDraw = False
+4899.8343 	EXP 	unnamed TextStim: autoDraw = False
+4912.4326 	EXP 	unnamed TextStim: autoDraw = True
+4913.4491 	EXP 	unnamed TextStim: autoDraw = False
+4913.4657 	EXP 	unnamed TextStim: autoDraw = True
+4913.4657 	EXP 	unnamed TextStim: autoDraw = True
+4914.3157 	DATA 	Keypress: n
+4914.3369 	EXP 	unnamed TextStim: autoDraw = False
+4914.3369 	EXP 	unnamed TextStim: autoDraw = False
+4926.2307 	EXP 	unnamed TextStim: autoDraw = True
+4927.2473 	EXP 	unnamed TextStim: autoDraw = False
+4927.2639 	EXP 	unnamed TextStim: autoDraw = True
+4927.2639 	EXP 	unnamed TextStim: autoDraw = True
+4928.0520 	DATA 	Keypress: z
+4928.0638 	EXP 	unnamed TextStim: autoDraw = False
+4928.0638 	EXP 	unnamed TextStim: autoDraw = False
+4939.8956 	EXP 	unnamed TextStim: autoDraw = True
+4940.9121 	EXP 	unnamed TextStim: autoDraw = False
+4940.9288 	EXP 	unnamed TextStim: autoDraw = True
+4940.9288 	EXP 	unnamed TextStim: autoDraw = True
+4941.5454 	DATA 	Keypress: z
+4941.5620 	EXP 	unnamed TextStim: autoDraw = False
+4941.5620 	EXP 	unnamed TextStim: autoDraw = False
+4953.9270 	EXP 	unnamed TextStim: autoDraw = True
+4954.9435 	EXP 	unnamed TextStim: autoDraw = False
+4954.9601 	EXP 	unnamed TextStim: autoDraw = True
+4954.9601 	EXP 	unnamed TextStim: autoDraw = True
+4955.4269 	DATA 	Keypress: z
+4955.4434 	EXP 	unnamed TextStim: autoDraw = False
+4955.4434 	EXP 	unnamed TextStim: autoDraw = False
+4968.3751 	EXP 	unnamed TextStim: autoDraw = True
+4969.3916 	EXP 	unnamed TextStim: autoDraw = False
+4969.4082 	EXP 	unnamed TextStim: autoDraw = True
+4969.4082 	EXP 	unnamed TextStim: autoDraw = True
+4969.9416 	DATA 	Keypress: m
+4969.9581 	EXP 	unnamed TextStim: autoDraw = False
+4969.9581 	EXP 	unnamed TextStim: autoDraw = False
+4982.4398 	EXP 	unnamed TextStim: autoDraw = True
+4983.4564 	EXP 	unnamed TextStim: autoDraw = False
+4983.4730 	EXP 	unnamed TextStim: autoDraw = True
+4983.4730 	EXP 	unnamed TextStim: autoDraw = True
+4984.3897 	DATA 	Keypress: x
+4984.4062 	EXP 	unnamed TextStim: autoDraw = False
+4984.4062 	EXP 	unnamed TextStim: autoDraw = False
+4996.3713 	EXP 	unnamed TextStim: autoDraw = True
+4997.3878 	EXP 	unnamed TextStim: autoDraw = False
+4997.4045 	EXP 	unnamed TextStim: autoDraw = True
+4997.4045 	EXP 	unnamed TextStim: autoDraw = True
+4998.1711 	DATA 	Keypress: x
+4998.1876 	EXP 	unnamed TextStim: autoDraw = False
+4998.1876 	EXP 	unnamed TextStim: autoDraw = False
+5009.6028 	EXP 	unnamed TextStim: autoDraw = True
+5010.6194 	EXP 	unnamed TextStim: autoDraw = False
+5010.6360 	EXP 	unnamed TextStim: autoDraw = True
+5010.6360 	EXP 	unnamed TextStim: autoDraw = True
+5011.5193 	DATA 	Keypress: n
+5011.5358 	EXP 	unnamed TextStim: autoDraw = False
+5011.5358 	EXP 	unnamed TextStim: autoDraw = False
+5024.3842 	EXP 	unnamed TextStim: autoDraw = True
+5025.4007 	EXP 	unnamed TextStim: autoDraw = False
+5025.4174 	EXP 	unnamed TextStim: autoDraw = True
+5025.4174 	EXP 	unnamed TextStim: autoDraw = True
+5025.9341 	DATA 	Keypress: m
+5025.9506 	EXP 	unnamed TextStim: autoDraw = False
+5025.9506 	EXP 	unnamed TextStim: autoDraw = False
+5038.1323 	EXP 	unnamed TextStim: autoDraw = True
+5039.1489 	EXP 	unnamed TextStim: autoDraw = False
+5039.1655 	EXP 	unnamed TextStim: autoDraw = True
+5039.1655 	EXP 	unnamed TextStim: autoDraw = True
+5039.7155 	DATA 	Keypress: x
+5039.7369 	EXP 	unnamed TextStim: autoDraw = False
+5039.7369 	EXP 	unnamed TextStim: autoDraw = False
+5051.8305 	EXP 	unnamed TextStim: autoDraw = True
+5052.8470 	EXP 	unnamed TextStim: autoDraw = False
+5052.8636 	EXP 	unnamed TextStim: autoDraw = True
+5052.8636 	EXP 	unnamed TextStim: autoDraw = True
+5053.6351 	DATA 	Keypress: z
+5053.6469 	EXP 	unnamed TextStim: autoDraw = False
+5053.6469 	EXP 	unnamed TextStim: autoDraw = False
+5065.4453 	EXP 	unnamed TextStim: autoDraw = True
+5066.4619 	EXP 	unnamed TextStim: autoDraw = False
+5066.4785 	EXP 	unnamed TextStim: autoDraw = True
+5066.4785 	EXP 	unnamed TextStim: autoDraw = True
+5067.0785 	DATA 	Keypress: x
+5067.0951 	EXP 	unnamed TextStim: autoDraw = False
+5067.0951 	EXP 	unnamed TextStim: autoDraw = False
+5079.5101 	EXP 	unnamed TextStim: autoDraw = True
+5080.5266 	EXP 	unnamed TextStim: autoDraw = False
+5080.5432 	EXP 	unnamed TextStim: autoDraw = True
+5080.5432 	EXP 	unnamed TextStim: autoDraw = True
+5081.0766 	DATA 	Keypress: m
+5081.0931 	EXP 	unnamed TextStim: autoDraw = False
+5081.0931 	EXP 	unnamed TextStim: autoDraw = False
+5092.1584 	EXP 	unnamed TextStim: autoDraw = True
+5093.1749 	EXP 	unnamed TextStim: autoDraw = False
+5093.1916 	EXP 	unnamed TextStim: autoDraw = True
+5093.1916 	EXP 	unnamed TextStim: autoDraw = True
+5094.0582 	DATA 	Keypress: n
+5094.0748 	EXP 	unnamed TextStim: autoDraw = False
+5094.0748 	EXP 	unnamed TextStim: autoDraw = False
+5105.6899 	EXP 	unnamed TextStim: autoDraw = True
+5106.7064 	EXP 	unnamed TextStim: autoDraw = False
+5106.7230 	EXP 	unnamed TextStim: autoDraw = True
+5106.7230 	EXP 	unnamed TextStim: autoDraw = True
+5107.2731 	DATA 	Keypress: z
+5107.2944 	EXP 	unnamed TextStim: autoDraw = False
+5107.2944 	EXP 	unnamed TextStim: autoDraw = False
+5119.4714 	EXP 	unnamed TextStim: autoDraw = True
+5120.4879 	EXP 	unnamed TextStim: autoDraw = False
+5120.5046 	EXP 	unnamed TextStim: autoDraw = True
+5120.5046 	EXP 	unnamed TextStim: autoDraw = True
+5120.9880 	DATA 	Keypress: m
+5121.0045 	EXP 	unnamed TextStim: autoDraw = False
+5121.0045 	EXP 	unnamed TextStim: autoDraw = False
+5133.4861 	EXP 	unnamed TextStim: autoDraw = True
+5134.5027 	EXP 	unnamed TextStim: autoDraw = False
+5134.5193 	EXP 	unnamed TextStim: autoDraw = True
+5134.5193 	EXP 	unnamed TextStim: autoDraw = True
+5135.2027 	DATA 	Keypress: m
+5135.2192 	EXP 	unnamed TextStim: autoDraw = False
+5135.2192 	EXP 	unnamed TextStim: autoDraw = False
+5147.4509 	EXP 	unnamed TextStim: autoDraw = True
+5148.4675 	EXP 	unnamed TextStim: autoDraw = False
+5148.4840 	EXP 	unnamed TextStim: autoDraw = True
+5148.4840 	EXP 	unnamed TextStim: autoDraw = True
+5149.5175 	DATA 	Keypress: n
+5149.5339 	EXP 	unnamed TextStim: autoDraw = False
+5149.5339 	EXP 	unnamed TextStim: autoDraw = False
+5161.6324 	EXP 	unnamed TextStim: autoDraw = True
+5162.6489 	EXP 	unnamed TextStim: autoDraw = False
+5162.6655 	EXP 	unnamed TextStim: autoDraw = True
+5162.6655 	EXP 	unnamed TextStim: autoDraw = True
+5163.4655 	DATA 	Keypress: n
+5163.4821 	EXP 	unnamed TextStim: autoDraw = False
+5163.4821 	EXP 	unnamed TextStim: autoDraw = False
+5174.5639 	EXP 	unnamed TextStim: autoDraw = True
+5175.5805 	EXP 	unnamed TextStim: autoDraw = False
+5175.5971 	EXP 	unnamed TextStim: autoDraw = True
+5175.5971 	EXP 	unnamed TextStim: autoDraw = True
+5176.3638 	DATA 	Keypress: n
+5176.3803 	EXP 	unnamed TextStim: autoDraw = False
+5176.3803 	EXP 	unnamed TextStim: autoDraw = False
+5188.2121 	EXP 	unnamed TextStim: autoDraw = True
+5189.2286 	EXP 	unnamed TextStim: autoDraw = False
+5189.2452 	EXP 	unnamed TextStim: autoDraw = True
+5189.2452 	EXP 	unnamed TextStim: autoDraw = True
+5189.9667 	DATA 	Keypress: n
+5189.9785 	EXP 	unnamed TextStim: autoDraw = False
+5189.9785 	EXP 	unnamed TextStim: autoDraw = False
+5201.2270 	EXP 	unnamed TextStim: autoDraw = True
+5202.2436 	EXP 	unnamed TextStim: autoDraw = False
+5202.2601 	EXP 	unnamed TextStim: autoDraw = True
+5202.2601 	EXP 	unnamed TextStim: autoDraw = True
+5202.9816 	DATA 	Keypress: n
+5202.9934 	EXP 	unnamed TextStim: autoDraw = False
+5202.9934 	EXP 	unnamed TextStim: autoDraw = False
+5215.6751 	EXP 	unnamed TextStim: autoDraw = True
+5216.6916 	EXP 	unnamed TextStim: autoDraw = False
+5216.7082 	EXP 	unnamed TextStim: autoDraw = True
+5216.7082 	EXP 	unnamed TextStim: autoDraw = True
+5217.5083 	DATA 	Keypress: x
+5217.5248 	EXP 	unnamed TextStim: autoDraw = False
+5217.5248 	EXP 	unnamed TextStim: autoDraw = False
+5230.3898 	EXP 	unnamed TextStim: autoDraw = True
+5231.4063 	EXP 	unnamed TextStim: autoDraw = False
+5231.4230 	EXP 	unnamed TextStim: autoDraw = True
+5231.4230 	EXP 	unnamed TextStim: autoDraw = True
+5232.3063 	DATA 	Keypress: z
+5232.3228 	EXP 	unnamed TextStim: autoDraw = False
+5232.3228 	EXP 	unnamed TextStim: autoDraw = False
+5244.7045 	EXP 	unnamed TextStim: autoDraw = True
+5245.7211 	EXP 	unnamed TextStim: autoDraw = False
+5245.7377 	EXP 	unnamed TextStim: autoDraw = True
+5245.7377 	EXP 	unnamed TextStim: autoDraw = True
+5246.4052 	DATA 	Keypress: n
+5246.4376 	EXP 	unnamed TextStim: autoDraw = False
+5246.4376 	EXP 	unnamed TextStim: autoDraw = False
+5259.3026 	EXP 	unnamed TextStim: autoDraw = True
+5260.3191 	EXP 	unnamed TextStim: autoDraw = False
+5260.3357 	EXP 	unnamed TextStim: autoDraw = True
+5260.3357 	EXP 	unnamed TextStim: autoDraw = True
+5261.1691 	DATA 	Keypress: x
+5261.1855 	EXP 	unnamed TextStim: autoDraw = False
+5261.1855 	EXP 	unnamed TextStim: autoDraw = False
+5272.9007 	EXP 	unnamed TextStim: autoDraw = True
+5273.9173 	EXP 	unnamed TextStim: autoDraw = False
+5273.9339 	EXP 	unnamed TextStim: autoDraw = True
+5273.9339 	EXP 	unnamed TextStim: autoDraw = True
+5274.6339 	DATA 	Keypress: x
+5274.6505 	EXP 	unnamed TextStim: autoDraw = False
+5274.6505 	EXP 	unnamed TextStim: autoDraw = False
+5287.2321 	EXP 	unnamed TextStim: autoDraw = True
+5288.2486 	EXP 	unnamed TextStim: autoDraw = False
+5288.2653 	EXP 	unnamed TextStim: autoDraw = True
+5288.2653 	EXP 	unnamed TextStim: autoDraw = True
+5289.1653 	DATA 	Keypress: z
+5289.1818 	EXP 	unnamed TextStim: autoDraw = False
+5289.1818 	EXP 	unnamed TextStim: autoDraw = False
+5300.8969 	EXP 	unnamed TextStim: autoDraw = True
+5301.9135 	EXP 	unnamed TextStim: autoDraw = False
+5301.9301 	EXP 	unnamed TextStim: autoDraw = True
+5301.9301 	EXP 	unnamed TextStim: autoDraw = True
+5302.6468 	DATA 	Keypress: n
+5302.6634 	EXP 	unnamed TextStim: autoDraw = False
+5302.6634 	EXP 	unnamed TextStim: autoDraw = False
+5314.8784 	EXP 	unnamed TextStim: autoDraw = True
+5315.8949 	EXP 	unnamed TextStim: autoDraw = False
+5315.9116 	EXP 	unnamed TextStim: autoDraw = True
+5315.9116 	EXP 	unnamed TextStim: autoDraw = True
+5316.5950 	DATA 	Keypress: n
+5316.6115 	EXP 	unnamed TextStim: autoDraw = False
+5316.6115 	EXP 	unnamed TextStim: autoDraw = False
+5328.7932 	EXP 	unnamed TextStim: autoDraw = True
+5329.8097 	EXP 	unnamed TextStim: autoDraw = False
+5329.8264 	EXP 	unnamed TextStim: autoDraw = True
+5329.8264 	EXP 	unnamed TextStim: autoDraw = True
+5330.7097 	DATA 	Keypress: x
+5330.7262 	EXP 	unnamed TextStim: autoDraw = False
+5330.7262 	EXP 	unnamed TextStim: autoDraw = False
+5342.5080 	EXP 	unnamed TextStim: autoDraw = True
+5343.5246 	EXP 	unnamed TextStim: autoDraw = False
+5343.5412 	EXP 	unnamed TextStim: autoDraw = True
+5343.5412 	EXP 	unnamed TextStim: autoDraw = True
+5344.5245 	DATA 	Keypress: n
+5344.5411 	EXP 	unnamed TextStim: autoDraw = False
+5344.5411 	EXP 	unnamed TextStim: autoDraw = False
+5356.1562 	EXP 	unnamed TextStim: autoDraw = True
+5357.1727 	EXP 	unnamed TextStim: autoDraw = False
+5357.1893 	EXP 	unnamed TextStim: autoDraw = True
+5357.1893 	EXP 	unnamed TextStim: autoDraw = True
+5357.9609 	DATA 	Keypress: n
+5357.9726 	EXP 	unnamed TextStim: autoDraw = False
+5357.9726 	EXP 	unnamed TextStim: autoDraw = False
+5369.2044 	EXP 	unnamed TextStim: autoDraw = True
+5370.2210 	EXP 	unnamed TextStim: autoDraw = False
+5370.2376 	EXP 	unnamed TextStim: autoDraw = True
+5370.2376 	EXP 	unnamed TextStim: autoDraw = True
+5370.9542 	DATA 	Keypress: x
+5370.9708 	EXP 	unnamed TextStim: autoDraw = False
+5370.9708 	EXP 	unnamed TextStim: autoDraw = False
+5382.4860 	EXP 	unnamed TextStim: autoDraw = True
+5383.5025 	EXP 	unnamed TextStim: autoDraw = False
+5383.5192 	EXP 	unnamed TextStim: autoDraw = True
+5383.5192 	EXP 	unnamed TextStim: autoDraw = True
+5384.2525 	DATA 	Keypress: n
+5384.2690 	EXP 	unnamed TextStim: autoDraw = False
+5384.2690 	EXP 	unnamed TextStim: autoDraw = False
+5397.2173 	EXP 	unnamed TextStim: autoDraw = True
+5398.2339 	EXP 	unnamed TextStim: autoDraw = False
+5398.2505 	EXP 	unnamed TextStim: autoDraw = True
+5398.2505 	EXP 	unnamed TextStim: autoDraw = True
+5398.8672 	DATA 	Keypress: z
+5398.8837 	EXP 	unnamed TextStim: autoDraw = False
+5398.8837 	EXP 	unnamed TextStim: autoDraw = False
+5411.0155 	EXP 	unnamed TextStim: autoDraw = True
+5412.0320 	EXP 	unnamed TextStim: autoDraw = False
+5412.0486 	EXP 	unnamed TextStim: autoDraw = True
+5412.0486 	EXP 	unnamed TextStim: autoDraw = True
+5413.5819 	DATA 	Keypress: n
+5413.5984 	EXP 	unnamed TextStim: autoDraw = False
+5413.5984 	EXP 	unnamed TextStim: autoDraw = False
+5425.4635 	EXP 	unnamed TextStim: autoDraw = True
+5426.4801 	EXP 	unnamed TextStim: autoDraw = False
+5426.4967 	EXP 	unnamed TextStim: autoDraw = True
+5426.4967 	EXP 	unnamed TextStim: autoDraw = True
+5427.3968 	DATA 	Keypress: z
+5427.4132 	EXP 	unnamed TextStim: autoDraw = False
+5427.4132 	EXP 	unnamed TextStim: autoDraw = False
+5439.7950 	EXP 	unnamed TextStim: autoDraw = True
+5440.8115 	EXP 	unnamed TextStim: autoDraw = False
+5440.8282 	EXP 	unnamed TextStim: autoDraw = True
+5440.8282 	EXP 	unnamed TextStim: autoDraw = True
+5441.6448 	DATA 	Keypress: x
+5441.6613 	EXP 	unnamed TextStim: autoDraw = False
+5441.6613 	EXP 	unnamed TextStim: autoDraw = False
+5452.8598 	EXP 	unnamed TextStim: autoDraw = True
+5453.8764 	EXP 	unnamed TextStim: autoDraw = False
+5453.8930 	EXP 	unnamed TextStim: autoDraw = True
+5453.8930 	EXP 	unnamed TextStim: autoDraw = True
+5454.2764 	DATA 	Keypress: z
+5454.2930 	EXP 	unnamed TextStim: autoDraw = False
+5454.2930 	EXP 	unnamed TextStim: autoDraw = False
+5467.0246 	EXP 	unnamed TextStim: autoDraw = True
+5468.0412 	EXP 	unnamed TextStim: autoDraw = False
+5468.0578 	EXP 	unnamed TextStim: autoDraw = True
+5468.0578 	EXP 	unnamed TextStim: autoDraw = True
+5468.7412 	DATA 	Keypress: z
+5468.7577 	EXP 	unnamed TextStim: autoDraw = False
+5468.7577 	EXP 	unnamed TextStim: autoDraw = False
+5480.2228 	EXP 	unnamed TextStim: autoDraw = True
+5481.2394 	EXP 	unnamed TextStim: autoDraw = False
+5481.2559 	EXP 	unnamed TextStim: autoDraw = True
+5481.2559 	EXP 	unnamed TextStim: autoDraw = True
+5481.9561 	DATA 	Keypress: x
+5481.9725 	EXP 	unnamed TextStim: autoDraw = False
+5481.9725 	EXP 	unnamed TextStim: autoDraw = False
+5494.9042 	EXP 	unnamed TextStim: autoDraw = True
+5495.9207 	EXP 	unnamed TextStim: autoDraw = False
+5495.9374 	EXP 	unnamed TextStim: autoDraw = True
+5495.9374 	EXP 	unnamed TextStim: autoDraw = True
+5496.7880 	DATA 	Keypress: x
+5496.8206 	EXP 	unnamed TextStim: autoDraw = False
+5496.8206 	EXP 	unnamed TextStim: autoDraw = False
+5509.2356 	EXP 	unnamed TextStim: autoDraw = True
+5510.2521 	EXP 	unnamed TextStim: autoDraw = False
+5510.2688 	EXP 	unnamed TextStim: autoDraw = True
+5510.2688 	EXP 	unnamed TextStim: autoDraw = True
+5510.8688 	DATA 	Keypress: z
+5510.8853 	EXP 	unnamed TextStim: autoDraw = False
+5510.8853 	EXP 	unnamed TextStim: autoDraw = False
+5522.0338 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='#f2f2f2', colorSpace='hex', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([242, 242, 242]), text=u'blabla end', units='pix', win=Window(...), wrapWidth=1920)
+5862.4679 	DATA 	Keypress: v
+5862.4714 	DATA 	Keypress: space
